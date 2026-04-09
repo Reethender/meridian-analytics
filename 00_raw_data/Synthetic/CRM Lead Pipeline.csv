@@ -1,0 +1,1001 @@
+lead_id,enquiry_date,lead_source,product_category,region,response_time_hours,stage,deal_value_gbp,customer_type
+LD-1,03/11/2022,Trade Show,Industrial Hardware,Midlands,54,Lost,65794.38,Government
+LD-2,08/08/2022,Website,Industrial Hardware,Midlands,85,Enquiry,39193.45,Government
+LD-3,21/01/2022,Email Campaign,MRO Supplies,South West,18,Won,55030.66,Retail
+LD-4,02/12/2023,Referral,MRO Supplies,London,23,Qualified,43545.95,Government
+LD-5,09/07/2023,Referral,Safety Products,South East,51,Enquiry,9262.58,Retail
+LD-6,22/09/2022,Website,Packaging,South West,33,Won,62109.07,Government
+LD-7,02/07/2024,Trade Show,Industrial Hardware,South East,61,Qualified,71891.07,Trade
+LD-8,16/10/2023,Cold Call,Industrial Hardware,Midlands,64,Proposal Sent,17336.38,Retail
+LD-9,12/11/2023,Cold Call,Warehouse Equipment,South East,55,Won,2574.66,Government
+LD-10,23/04/2023,Website,MRO Supplies,South West,2,Proposal Sent,57956.88,Retail
+LD-11,01/08/2022,Online Directory,Packaging,Midlands,54,Lost,46288.86,Contractor
+LD-12,01/06/2024,Referral,Safety Products,Midlands,14,Enquiry,10762.74,Retail
+LD-13,01/07/2024,Cold Call,Warehouse Equipment,London,52,Proposal Sent,63750.06,Retail
+LD-14,27/12/2024,Online Directory,Safety Products,South West,18,Enquiry,42555.77,Retail
+LD-15,15/05/2022,Trade Show,Safety Products,South East,38,Lost,33234.93,Contractor
+LD-16,23/08/2024,Online Directory,Industrial Hardware,South East,54,Qualified,27729.98,Retail
+LD-17,26/04/2024,Referral,Packaging,South West,49,Lost,81923.92,Contractor
+LD-18,17/08/2023,Website,MRO Supplies,South East,35,Won,57310.91,Contractor
+LD-19,20/03/2022,Website,MRO Supplies,South West,3,Qualified,44643.65,Government
+LD-20,22/11/2023,Trade Show,Packaging,South East,14,Qualified,2842.41,Contractor
+LD-21,02/10/2022,Cold Call,Packaging,Midlands,64,Qualified,50390.6,Government
+LD-22,02/07/2023,Website,Packaging,North,8,Won,62598.82,Retail
+LD-23,31/12/2022,Online Directory,MRO Supplies,London,20,Enquiry,19180.62,Government
+LD-24,14/05/2022,Online Directory,MRO Supplies,South West,37,Lost,61869.71,Contractor
+LD-25,31/08/2023,Trade Show,Safety Products,North,57,Qualified,9090.18,Contractor
+LD-26,01/07/2022,Website,Packaging,South East,52,Proposal Sent,15797.12,Contractor
+LD-27,15/10/2023,Referral,Packaging,South East,29,Enquiry,37233.56,Retail
+LD-28,03/07/2024,Website,MRO Supplies,Midlands,19,Won,83278.47,Trade
+LD-29,09/05/2024,Online Directory,Warehouse Equipment,South East,48,Enquiry,67876.43,Government
+LD-30,29/10/2022,Trade Show,Packaging,North,75,Enquiry,48230.65,Retail
+LD-31,21/12/2022,Email Campaign,MRO Supplies,South West,15,Won,42533.7,Trade
+LD-32,16/11/2024,Email Campaign,MRO Supplies,South East,15,Proposal Sent,59270.89,Retail
+LD-33,06/07/2023,Online Directory,Warehouse Equipment,South West,31,Won,55812.07,Retail
+LD-34,01/09/2023,Online Directory,Warehouse Equipment,South West,23,Qualified,84796.32,Retail
+LD-35,30/08/2024,Website,Warehouse Equipment,South East,37,Proposal Sent,22699.43,Government
+LD-36,06/01/2023,Website,Industrial Hardware,London,30,Proposal Sent,73836.24,Government
+LD-37,14/10/2024,Trade Show,MRO Supplies,North,13,Won,33214.82,Government
+LD-38,25/02/2024,Online Directory,Industrial Hardware,Midlands,18,Enquiry,77725.85,Trade
+LD-39,01/05/2023,Online Directory,Warehouse Equipment,London,18,Enquiry,7350.08,Government
+LD-40,28/10/2022,Referral,Industrial Hardware,South East,28,Enquiry,54522.42,Contractor
+LD-41,06/06/2024,Online Directory,MRO Supplies,North,67,Lost,26230.79,Government
+LD-42,06/02/2024,Email Campaign,Industrial Hardware,Midlands,25,Proposal Sent,45875.9,Government
+LD-43,29/05/2022,Website,Warehouse Equipment,North,21,Enquiry,79905.03,Retail
+LD-44,26/11/2022,Cold Call,Industrial Hardware,South West,76,Enquiry,29842.23,Government
+LD-45,21/01/2022,Email Campaign,Industrial Hardware,South West,96,Lost,29672.12,Contractor
+LD-46,07/06/2023,Referral,Industrial Hardware,Midlands,89,Qualified,7249.89,Contractor
+LD-47,13/09/2024,Online Directory,Industrial Hardware,North,83,Enquiry,62742.84,Retail
+LD-48,15/05/2023,Email Campaign,Warehouse Equipment,North,77,Lost,40660.83,Contractor
+LD-49,17/07/2024,Trade Show,Safety Products,North,21,Enquiry,28791.73,Retail
+LD-50,20/08/2022,Website,Safety Products,London,34,Enquiry,31822.84,Contractor
+LD-51,22/09/2023,Referral,Warehouse Equipment,London,59,Lost,21060.04,Government
+LD-52,11/01/2024,Trade Show,Safety Products,North,68,Proposal Sent,26456.59,Trade
+LD-53,26/08/2022,Email Campaign,Packaging,North,18,Qualified,6778.6,Contractor
+LD-54,15/10/2022,Email Campaign,Safety Products,London,35,Won,29948.55,Government
+LD-55,20/01/2024,Trade Show,Safety Products,London,45,Proposal Sent,21328.34,Retail
+LD-56,27/04/2024,Referral,MRO Supplies,South East,89,Qualified,27708.31,Government
+LD-57,01/11/2022,Cold Call,Industrial Hardware,South East,37,Qualified,75866.11,Government
+LD-58,05/09/2022,Email Campaign,Industrial Hardware,Midlands,18,Qualified,23945.35,Government
+LD-59,12/06/2023,Website,Packaging,North,96,Enquiry,55005.81,Contractor
+LD-60,13/02/2024,Email Campaign,Industrial Hardware,North,29,Enquiry,45222.7,Retail
+LD-61,18/11/2023,Cold Call,MRO Supplies,London,5,Proposal Sent,13932.06,Trade
+LD-62,08/10/2024,Cold Call,Safety Products,London,12,Lost,62869.16,Trade
+LD-63,29/12/2022,Email Campaign,Warehouse Equipment,South East,15,Qualified,69130.5,Retail
+LD-64,04/07/2024,Website,MRO Supplies,North,23,Won,13147.31,Contractor
+LD-65,08/05/2024,Cold Call,MRO Supplies,Midlands,24,Enquiry,48528.03,Retail
+LD-66,26/10/2022,Cold Call,Industrial Hardware,South East,36,Qualified,2137.2,Contractor
+LD-67,07/06/2024,Trade Show,MRO Supplies,North,20,Proposal Sent,35112.22,Contractor
+LD-68,04/05/2022,Referral,Warehouse Equipment,Midlands,51,Qualified,80339.37,Government
+LD-69,25/07/2022,Email Campaign,Packaging,Midlands,88,Qualified,2645.09,Trade
+LD-70,03/08/2024,Trade Show,Industrial Hardware,Midlands,35,Lost,31457.91,Contractor
+LD-71,27/06/2024,Trade Show,Safety Products,South West,21,Won,25974.94,Government
+LD-72,29/10/2022,Cold Call,Safety Products,South West,37,Won,65887.98,Contractor
+LD-73,31/01/2024,Trade Show,Industrial Hardware,London,39,Proposal Sent,13895.41,Contractor
+LD-74,17/08/2023,Online Directory,MRO Supplies,North,73,Proposal Sent,60141.02,Government
+LD-75,18/07/2023,Referral,Packaging,London,33,Qualified,42607.51,Government
+LD-76,30/10/2023,Cold Call,MRO Supplies,South West,88,Enquiry,77448.86,Trade
+LD-77,22/07/2024,Referral,Warehouse Equipment,Midlands,51,Qualified,64554.27,Retail
+LD-78,14/06/2024,Trade Show,Warehouse Equipment,North,68,Won,70093.1,Contractor
+LD-79,14/12/2022,Referral,Industrial Hardware,South East,48,Lost,17381.43,Government
+LD-80,03/10/2022,Email Campaign,Warehouse Equipment,Midlands,55,Lost,11707.18,Contractor
+LD-81,17/07/2023,Cold Call,Warehouse Equipment,North,7,Proposal Sent,53385.58,Government
+LD-82,19/10/2023,Email Campaign,MRO Supplies,South West,77,Qualified,77360.27,Contractor
+LD-83,14/07/2024,Trade Show,Safety Products,Midlands,4,Qualified,15151.45,Government
+LD-84,15/07/2023,Online Directory,MRO Supplies,London,22,Won,33494.54,Trade
+LD-85,02/09/2022,Email Campaign,Packaging,South West,64,Won,43996.92,Contractor
+LD-86,31/05/2024,Referral,Safety Products,Midlands,80,Qualified,74071.41,Retail
+LD-87,09/04/2022,Cold Call,Packaging,South East,59,Qualified,3118.77,Government
+LD-88,06/07/2024,Trade Show,Industrial Hardware,London,3,Proposal Sent,82414.05,Retail
+LD-89,02/08/2022,Referral,Packaging,London,49,Enquiry,18806.96,Retail
+LD-90,27/06/2022,Website,Packaging,South West,23,Proposal Sent,61140.43,Contractor
+LD-91,25/10/2022,Website,Safety Products,South West,95,Qualified,61597.56,Trade
+LD-92,11/02/2023,Referral,Safety Products,South West,90,Won,17652.54,Contractor
+LD-93,05/11/2023,Online Directory,Packaging,South West,24,Won,6999.93,Government
+LD-94,07/03/2024,Trade Show,Warehouse Equipment,North,40,Qualified,45933.58,Contractor
+LD-95,06/02/2022,Email Campaign,Safety Products,South East,29,Qualified,22139.34,Government
+LD-96,13/07/2022,Referral,Packaging,London,1,Qualified,40701.73,Trade
+LD-97,14/06/2024,Online Directory,Packaging,Midlands,95,Won,15770.45,Retail
+LD-98,24/11/2024,Online Directory,Warehouse Equipment,North,95,Qualified,46370.12,Trade
+LD-99,19/03/2024,Email Campaign,Warehouse Equipment,North,58,Lost,26201.74,Contractor
+LD-100,19/03/2022,Trade Show,MRO Supplies,North,60,Proposal Sent,36035.24,Contractor
+LD-101,29/01/2023,Website,Industrial Hardware,London,50,Enquiry,76438.49,Government
+LD-102,29/07/2024,Cold Call,Safety Products,Midlands,77,Won,1887.03,Government
+LD-103,05/08/2024,Email Campaign,Safety Products,Midlands,94,Qualified,48647.2,Trade
+LD-104,31/10/2022,Referral,Warehouse Equipment,Midlands,38,Lost,36024.46,Contractor
+LD-105,11/03/2024,Online Directory,Industrial Hardware,Midlands,60,Lost,67708.67,Retail
+LD-106,17/03/2023,Online Directory,Safety Products,Midlands,26,Lost,55448.02,Contractor
+LD-107,07/05/2022,Cold Call,Safety Products,North,80,Proposal Sent,29887.76,Contractor
+LD-108,23/01/2024,Website,MRO Supplies,South West,36,Lost,66890.43,Contractor
+LD-109,18/06/2024,Trade Show,Warehouse Equipment,London,94,Qualified,2786.24,Trade
+LD-110,26/05/2024,Cold Call,MRO Supplies,South East,10,Qualified,65465.7,Contractor
+LD-111,21/05/2023,Online Directory,Packaging,London,83,Lost,34854.98,Trade
+LD-112,24/02/2022,Trade Show,Safety Products,South East,89,Lost,10054.64,Trade
+LD-113,06/10/2023,Trade Show,MRO Supplies,South West,92,Won,74687.29,Retail
+LD-114,01/11/2024,Trade Show,Packaging,North,15,Lost,36911.27,Contractor
+LD-115,18/07/2023,Online Directory,Industrial Hardware,South East,30,Won,18392.36,Contractor
+LD-116,26/08/2022,Referral,MRO Supplies,North,65,Won,72019.52,Retail
+LD-117,03/10/2023,Trade Show,Safety Products,South East,36,Lost,6463.18,Retail
+LD-118,07/10/2024,Referral,MRO Supplies,South East,8,Won,84946.62,Government
+LD-119,06/02/2024,Online Directory,Packaging,North,15,Won,6414.44,Retail
+LD-120,06/09/2022,Referral,Industrial Hardware,Midlands,39,Proposal Sent,38374.44,Government
+LD-121,11/12/2024,Website,Safety Products,London,46,Qualified,55260.71,Trade
+LD-122,05/03/2023,Email Campaign,Industrial Hardware,Midlands,12,Won,47171.09,Trade
+LD-123,10/03/2022,Email Campaign,MRO Supplies,North,22,Proposal Sent,62628.06,Retail
+LD-124,18/12/2023,Referral,Industrial Hardware,South East,92,Won,42563.56,Contractor
+LD-125,23/06/2024,Referral,Packaging,London,6,Proposal Sent,60414.42,Contractor
+LD-126,03/01/2024,Trade Show,Warehouse Equipment,Midlands,19,Qualified,49929.24,Contractor
+LD-127,26/07/2023,Online Directory,Warehouse Equipment,South East,53,Enquiry,26263.51,Retail
+LD-128,06/07/2023,Website,Warehouse Equipment,South West,91,Enquiry,39448.15,Retail
+LD-129,17/06/2024,Website,Packaging,North,17,Proposal Sent,16288.45,Contractor
+LD-130,15/09/2024,Email Campaign,MRO Supplies,London,24,Qualified,26156.96,Retail
+LD-131,22/10/2024,Cold Call,Packaging,London,6,Enquiry,58186.2,Government
+LD-132,27/03/2022,Email Campaign,Industrial Hardware,London,65,Lost,67923.4,Contractor
+LD-133,23/04/2023,Website,MRO Supplies,North,62,Lost,79517.57,Government
+LD-134,30/05/2023,Online Directory,Packaging,South East,74,Lost,67150.05,Trade
+LD-135,01/08/2022,Cold Call,Packaging,Midlands,32,Enquiry,6494.35,Trade
+LD-136,04/03/2024,Cold Call,Warehouse Equipment,North,23,Enquiry,19083.3,Government
+LD-137,07/07/2022,Website,MRO Supplies,South East,18,Enquiry,14284.83,Government
+LD-138,29/11/2023,Trade Show,Industrial Hardware,South West,52,Qualified,21857.14,Retail
+LD-139,03/04/2023,Online Directory,Packaging,North,57,Qualified,30490.5,Trade
+LD-140,20/07/2024,Online Directory,MRO Supplies,Midlands,13,Won,23024.92,Government
+LD-141,09/11/2024,Online Directory,Packaging,Midlands,86,Qualified,73115.8,Government
+LD-142,20/11/2023,Website,MRO Supplies,Midlands,49,Enquiry,6455.96,Trade
+LD-143,28/06/2022,Referral,Warehouse Equipment,South East,75,Lost,57836.38,Trade
+LD-144,26/10/2022,Website,MRO Supplies,Midlands,58,Won,58926.63,Government
+LD-145,20/09/2022,Website,Industrial Hardware,South East,85,Qualified,81312.35,Government
+LD-146,08/06/2024,Online Directory,Industrial Hardware,North,34,Proposal Sent,40446.47,Government
+LD-147,18/11/2023,Referral,MRO Supplies,South East,4,Lost,33110.02,Trade
+LD-148,16/07/2023,Website,Industrial Hardware,South West,56,Lost,10724.2,Retail
+LD-149,15/01/2023,Email Campaign,Warehouse Equipment,Midlands,1,Qualified,6725.99,Contractor
+LD-150,13/11/2022,Website,MRO Supplies,North,40,Enquiry,77530.92,Retail
+LD-151,28/09/2023,Website,Warehouse Equipment,North,69,Won,63701.97,Trade
+LD-152,19/11/2023,Online Directory,Packaging,South East,37,Qualified,79593.47,Contractor
+LD-153,28/04/2023,Online Directory,Industrial Hardware,South West,57,Won,16512.4,Trade
+LD-154,16/08/2024,Cold Call,MRO Supplies,South West,82,Won,13171.49,Government
+LD-155,18/08/2023,Cold Call,Warehouse Equipment,South West,21,Proposal Sent,41303.45,Retail
+LD-156,04/09/2024,Trade Show,Packaging,South East,32,Lost,53751.72,Contractor
+LD-157,31/05/2022,Email Campaign,Packaging,North,37,Won,47893.31,Contractor
+LD-158,09/01/2022,Trade Show,Warehouse Equipment,South West,67,Lost,10554.28,Government
+LD-159,19/04/2022,Trade Show,MRO Supplies,Midlands,31,Won,57158.4,Trade
+LD-160,21/06/2022,Online Directory,Warehouse Equipment,South East,47,Qualified,72371.24,Retail
+LD-161,15/05/2023,Referral,Safety Products,South East,56,Qualified,70544.19,Trade
+LD-162,17/02/2022,Online Directory,Warehouse Equipment,London,82,Enquiry,49440.54,Trade
+LD-163,12/07/2022,Referral,Industrial Hardware,South West,19,Won,62570.9,Retail
+LD-164,14/11/2022,Cold Call,Industrial Hardware,Midlands,8,Won,56576.83,Retail
+LD-165,28/05/2024,Referral,Safety Products,South West,91,Lost,39390.77,Contractor
+LD-166,26/02/2024,Email Campaign,Packaging,London,74,Enquiry,79543.74,Trade
+LD-167,29/01/2022,Trade Show,MRO Supplies,South West,57,Proposal Sent,11768.36,Trade
+LD-168,10/10/2022,Online Directory,Safety Products,South West,69,Proposal Sent,67364.12,Government
+LD-169,17/07/2023,Email Campaign,Safety Products,London,27,Won,32304.02,Government
+LD-170,14/03/2022,Online Directory,Safety Products,North,26,Lost,64066.01,Trade
+LD-171,24/02/2024,Email Campaign,Packaging,Midlands,17,Enquiry,72566.48,Contractor
+LD-172,24/08/2024,Cold Call,Packaging,South East,32,Won,60980.76,Trade
+LD-173,30/05/2022,Email Campaign,Warehouse Equipment,South West,27,Won,31936.4,Retail
+LD-174,17/12/2024,Email Campaign,MRO Supplies,South West,15,Qualified,70738.02,Retail
+LD-175,02/02/2024,Online Directory,MRO Supplies,London,13,Won,81646.44,Government
+LD-176,28/06/2023,Cold Call,MRO Supplies,South East,46,Qualified,37472.31,Contractor
+LD-177,18/11/2023,Cold Call,Safety Products,South East,2,Won,46606.82,Government
+LD-178,27/10/2024,Website,Safety Products,South East,82,Lost,20759.11,Trade
+LD-179,08/11/2023,Website,Warehouse Equipment,South East,13,Enquiry,2987.06,Trade
+LD-180,01/04/2022,Trade Show,Industrial Hardware,Midlands,37,Proposal Sent,76005.52,Retail
+LD-181,25/07/2024,Cold Call,MRO Supplies,South East,55,Won,47996.08,Contractor
+LD-182,04/07/2024,Website,Warehouse Equipment,Midlands,16,Enquiry,9097.89,Contractor
+LD-183,09/06/2022,Referral,Industrial Hardware,London,4,Qualified,21443.27,Government
+LD-184,30/01/2024,Trade Show,Industrial Hardware,North,27,Won,49207.63,Retail
+LD-185,12/04/2024,Referral,Safety Products,London,83,Enquiry,18501.09,Trade
+LD-186,08/09/2023,Online Directory,Packaging,South West,15,Qualified,53930.6,Contractor
+LD-187,15/11/2023,Email Campaign,Warehouse Equipment,South East,40,Won,62366.4,Contractor
+LD-188,15/03/2024,Trade Show,MRO Supplies,South West,61,Won,60662.28,Trade
+LD-189,09/09/2023,Email Campaign,Safety Products,London,95,Won,25155.28,Contractor
+LD-190,17/12/2024,Cold Call,Safety Products,South West,16,Lost,72463.88,Trade
+LD-191,24/04/2022,Referral,Warehouse Equipment,South West,89,Lost,34855.44,Retail
+LD-192,07/12/2023,Referral,Safety Products,South West,27,Enquiry,1165.77,Contractor
+LD-193,26/04/2024,Website,MRO Supplies,South West,49,Enquiry,68395.1,Contractor
+LD-194,27/06/2023,Email Campaign,Industrial Hardware,North,8,Lost,23866.93,Government
+LD-195,02/07/2024,Email Campaign,MRO Supplies,North,1,Qualified,42797.74,Government
+LD-196,27/04/2024,Trade Show,Industrial Hardware,South West,55,Won,43035.73,Trade
+LD-197,27/03/2023,Email Campaign,Warehouse Equipment,South West,7,Enquiry,77452.29,Government
+LD-198,01/11/2022,Trade Show,Packaging,London,55,Enquiry,39698.14,Retail
+LD-199,12/10/2023,Online Directory,Safety Products,South West,3,Lost,6546.36,Trade
+LD-200,18/12/2024,Website,Safety Products,South East,22,Lost,19736.27,Trade
+LD-201,07/07/2022,Website,MRO Supplies,North,39,Proposal Sent,42510.0,Trade
+LD-202,30/06/2024,Email Campaign,Safety Products,Midlands,94,Proposal Sent,9894.51,Contractor
+LD-203,09/09/2022,Email Campaign,Industrial Hardware,North,52,Qualified,20502.18,Contractor
+LD-204,21/07/2023,Trade Show,Warehouse Equipment,South West,89,Proposal Sent,50623.56,Government
+LD-205,14/02/2023,Trade Show,MRO Supplies,Midlands,28,Lost,50980.14,Trade
+LD-206,10/11/2022,Website,Packaging,London,30,Qualified,21398.87,Trade
+LD-207,12/04/2022,Referral,Packaging,South West,35,Enquiry,62591.0,Trade
+LD-208,25/05/2024,Email Campaign,Packaging,South West,86,Proposal Sent,16713.28,Trade
+LD-209,03/09/2022,Online Directory,Warehouse Equipment,Midlands,25,Qualified,84489.33,Contractor
+LD-210,25/11/2022,Referral,MRO Supplies,South West,88,Enquiry,79649.12,Contractor
+LD-211,05/10/2023,Cold Call,Packaging,South East,12,Qualified,29841.43,Retail
+LD-212,05/03/2023,Cold Call,Safety Products,Midlands,24,Qualified,26840.45,Trade
+LD-213,15/02/2023,Cold Call,Industrial Hardware,South East,23,Enquiry,82650.46,Retail
+LD-214,27/05/2024,Email Campaign,Industrial Hardware,Midlands,94,Qualified,4027.4,Contractor
+LD-215,29/06/2022,Website,MRO Supplies,Midlands,23,Enquiry,37743.62,Trade
+LD-216,15/02/2022,Trade Show,Industrial Hardware,North,5,Qualified,19703.07,Trade
+LD-217,09/01/2023,Online Directory,Safety Products,South West,79,Proposal Sent,63539.01,Retail
+LD-218,01/08/2022,Referral,Warehouse Equipment,North,52,Qualified,54332.27,Contractor
+LD-219,23/04/2023,Referral,Packaging,North,41,Qualified,53624.5,Contractor
+LD-220,05/07/2024,Online Directory,MRO Supplies,Midlands,35,Proposal Sent,35630.21,Contractor
+LD-221,01/04/2022,Online Directory,Warehouse Equipment,North,68,Lost,45418.85,Government
+LD-222,23/01/2022,Cold Call,Warehouse Equipment,London,94,Won,63510.31,Contractor
+LD-223,14/01/2022,Cold Call,MRO Supplies,Midlands,49,Qualified,23936.88,Contractor
+LD-224,22/07/2022,Cold Call,Packaging,London,25,Enquiry,30609.72,Government
+LD-225,14/02/2024,Trade Show,Industrial Hardware,South East,28,Enquiry,43818.92,Contractor
+LD-226,29/04/2023,Referral,Packaging,Midlands,33,Lost,27856.58,Government
+LD-227,17/06/2023,Online Directory,Safety Products,North,83,Qualified,44346.43,Contractor
+LD-228,01/02/2023,Referral,Warehouse Equipment,South West,10,Enquiry,36093.57,Contractor
+LD-229,02/07/2022,Trade Show,MRO Supplies,South East,81,Lost,39054.19,Trade
+LD-230,18/12/2023,Online Directory,Warehouse Equipment,South East,72,Enquiry,25998.21,Retail
+LD-231,28/12/2024,Trade Show,Packaging,North,37,Qualified,32002.52,Government
+LD-232,10/01/2024,Referral,Industrial Hardware,London,59,Qualified,1095.74,Government
+LD-233,24/01/2022,Email Campaign,Industrial Hardware,Midlands,25,Won,27572.07,Government
+LD-234,24/02/2023,Referral,Safety Products,South West,49,Enquiry,57679.98,Retail
+LD-235,26/09/2024,Cold Call,Packaging,South West,84,Won,79544.29,Government
+LD-236,27/01/2024,Cold Call,Industrial Hardware,North,34,Won,72231.95,Contractor
+LD-237,24/05/2023,Website,Industrial Hardware,South East,32,Qualified,71768.28,Contractor
+LD-238,31/08/2023,Cold Call,Warehouse Equipment,South East,52,Won,59861.09,Trade
+LD-239,24/06/2023,Trade Show,Packaging,North,49,Proposal Sent,6019.79,Retail
+LD-240,14/04/2024,Online Directory,MRO Supplies,North,22,Won,29975.03,Contractor
+LD-241,02/04/2024,Referral,Industrial Hardware,Midlands,95,Proposal Sent,44871.77,Contractor
+LD-242,16/12/2022,Cold Call,Industrial Hardware,South East,70,Enquiry,39229.83,Contractor
+LD-243,13/07/2022,Email Campaign,Packaging,London,36,Lost,11646.07,Government
+LD-244,03/09/2022,Referral,Safety Products,South East,11,Enquiry,46623.96,Government
+LD-245,21/04/2024,Website,MRO Supplies,London,67,Qualified,11871.53,Government
+LD-246,25/10/2022,Trade Show,MRO Supplies,South West,62,Proposal Sent,70405.85,Contractor
+LD-247,06/02/2024,Cold Call,Warehouse Equipment,South West,15,Won,28379.86,Trade
+LD-248,12/08/2023,Website,Industrial Hardware,South West,89,Enquiry,52338.32,Contractor
+LD-249,19/03/2022,Online Directory,Industrial Hardware,London,77,Lost,68633.76,Retail
+LD-250,22/03/2024,Cold Call,Safety Products,Midlands,70,Lost,43194.22,Retail
+LD-251,03/03/2023,Online Directory,Warehouse Equipment,South West,60,Enquiry,43062.9,Retail
+LD-252,07/10/2023,Referral,Industrial Hardware,North,82,Lost,25745.99,Retail
+LD-253,20/02/2024,Online Directory,Industrial Hardware,Midlands,88,Lost,56071.88,Retail
+LD-254,16/12/2022,Cold Call,Safety Products,North,23,Won,33091.37,Contractor
+LD-255,12/12/2022,Cold Call,Packaging,London,88,Proposal Sent,82849.09,Retail
+LD-256,30/11/2022,Website,Industrial Hardware,South East,73,Qualified,6153.87,Government
+LD-257,21/11/2023,Website,MRO Supplies,Midlands,78,Lost,70223.97,Government
+LD-258,17/04/2022,Website,Packaging,South West,43,Lost,42686.16,Retail
+LD-259,03/01/2022,Trade Show,MRO Supplies,Midlands,66,Lost,60463.92,Trade
+LD-260,08/05/2023,Online Directory,Packaging,London,95,Enquiry,12191.47,Contractor
+LD-261,16/01/2023,Website,Warehouse Equipment,South East,63,Won,16510.04,Trade
+LD-262,10/08/2022,Website,Warehouse Equipment,London,86,Enquiry,67037.59,Retail
+LD-263,19/12/2022,Online Directory,Safety Products,North,44,Qualified,47674.35,Government
+LD-264,05/01/2023,Online Directory,Safety Products,South West,17,Qualified,59016.3,Retail
+LD-265,24/07/2024,Referral,Packaging,Midlands,56,Lost,25150.36,Contractor
+LD-266,30/12/2022,Cold Call,Packaging,South West,22,Won,81510.74,Retail
+LD-267,13/05/2024,Email Campaign,Industrial Hardware,London,40,Lost,61476.05,Trade
+LD-268,11/08/2023,Cold Call,Industrial Hardware,North,36,Enquiry,46458.44,Contractor
+LD-269,24/12/2022,Referral,Packaging,North,18,Enquiry,10926.58,Trade
+LD-270,29/11/2022,Trade Show,Packaging,Midlands,94,Enquiry,42562.16,Government
+LD-271,09/06/2023,Website,Warehouse Equipment,South West,59,Qualified,31021.05,Government
+LD-272,03/09/2022,Cold Call,MRO Supplies,South West,85,Qualified,58231.15,Trade
+LD-273,11/10/2024,Cold Call,MRO Supplies,Midlands,66,Enquiry,35876.17,Government
+LD-274,06/02/2024,Trade Show,Industrial Hardware,London,35,Qualified,84650.46,Contractor
+LD-275,28/09/2022,Trade Show,Industrial Hardware,Midlands,44,Lost,5061.9,Retail
+LD-276,28/04/2023,Cold Call,Industrial Hardware,South East,78,Lost,17093.21,Trade
+LD-277,02/10/2024,Cold Call,Safety Products,London,13,Lost,70962.6,Retail
+LD-278,11/06/2022,Email Campaign,Safety Products,South East,29,Enquiry,46941.78,Trade
+LD-279,20/06/2023,Online Directory,Warehouse Equipment,Midlands,87,Qualified,8393.14,Contractor
+LD-280,30/09/2024,Trade Show,Warehouse Equipment,Midlands,35,Proposal Sent,45702.51,Contractor
+LD-281,14/02/2024,Online Directory,MRO Supplies,North,1,Proposal Sent,30760.9,Trade
+LD-282,01/02/2022,Email Campaign,Safety Products,South West,95,Enquiry,74281.71,Government
+LD-283,05/10/2022,Trade Show,MRO Supplies,South East,30,Lost,65614.38,Retail
+LD-284,23/07/2024,Email Campaign,Safety Products,North,63,Won,29764.94,Contractor
+LD-285,25/11/2023,Trade Show,MRO Supplies,South West,59,Lost,24114.58,Government
+LD-286,03/02/2022,Website,Safety Products,South East,85,Enquiry,66241.01,Retail
+LD-287,13/07/2023,Email Campaign,Safety Products,London,65,Proposal Sent,20521.79,Contractor
+LD-288,15/08/2022,Cold Call,Industrial Hardware,South East,92,Enquiry,41153.75,Government
+LD-289,26/06/2023,Website,MRO Supplies,South East,24,Won,17464.32,Retail
+LD-290,12/04/2023,Online Directory,Packaging,South East,68,Lost,77837.24,Trade
+LD-291,27/05/2023,Website,MRO Supplies,South East,81,Proposal Sent,73268.09,Contractor
+LD-292,05/05/2022,Trade Show,Industrial Hardware,London,88,Won,20810.95,Retail
+LD-293,16/03/2024,Trade Show,Warehouse Equipment,Midlands,34,Proposal Sent,9299.61,Government
+LD-294,02/06/2022,Referral,Industrial Hardware,Midlands,85,Won,61319.17,Government
+LD-295,14/10/2022,Trade Show,MRO Supplies,South West,59,Enquiry,62176.75,Retail
+LD-296,26/04/2024,Website,Packaging,South West,84,Enquiry,20959.0,Trade
+LD-297,03/12/2022,Referral,MRO Supplies,North,84,Proposal Sent,8059.67,Contractor
+LD-298,06/06/2023,Email Campaign,Packaging,London,6,Lost,40959.24,Trade
+LD-299,28/08/2022,Email Campaign,Industrial Hardware,South East,46,Lost,76589.25,Government
+LD-300,17/11/2024,Website,Safety Products,South West,12,Won,50693.17,Government
+LD-301,04/02/2022,Email Campaign,Packaging,South East,23,Won,74129.75,Contractor
+LD-302,29/05/2024,Email Campaign,Industrial Hardware,London,81,Enquiry,65908.23,Trade
+LD-303,26/11/2024,Email Campaign,Industrial Hardware,South East,85,Proposal Sent,56646.5,Retail
+LD-304,27/10/2023,Referral,Warehouse Equipment,South West,11,Lost,8385.87,Retail
+LD-305,26/07/2024,Cold Call,MRO Supplies,South West,88,Lost,32820.58,Contractor
+LD-306,01/09/2022,Cold Call,Packaging,North,39,Lost,76608.26,Retail
+LD-307,04/07/2024,Referral,Packaging,Midlands,48,Won,15996.59,Government
+LD-308,04/01/2023,Online Directory,Industrial Hardware,London,1,Proposal Sent,70799.66,Government
+LD-309,31/05/2022,Online Directory,Warehouse Equipment,North,92,Proposal Sent,73132.75,Contractor
+LD-310,29/07/2023,Cold Call,Packaging,Midlands,86,Lost,58178.69,Government
+LD-311,29/07/2023,Referral,Industrial Hardware,South West,41,Lost,60334.15,Trade
+LD-312,26/07/2022,Referral,Warehouse Equipment,Midlands,38,Lost,16492.49,Trade
+LD-313,21/07/2022,Trade Show,Warehouse Equipment,South West,96,Lost,38897.88,Contractor
+LD-314,15/12/2022,Trade Show,Warehouse Equipment,London,88,Enquiry,19186.75,Government
+LD-315,26/01/2023,Trade Show,Warehouse Equipment,Midlands,71,Lost,59500.38,Trade
+LD-316,30/07/2022,Cold Call,Industrial Hardware,South West,63,Qualified,68044.9,Contractor
+LD-317,10/05/2023,Email Campaign,Packaging,London,49,Won,68081.93,Trade
+LD-318,28/12/2024,Referral,Industrial Hardware,South West,58,Qualified,76573.42,Contractor
+LD-319,18/03/2024,Referral,Packaging,South West,67,Won,12954.02,Government
+LD-320,29/08/2022,Referral,Warehouse Equipment,South East,14,Qualified,15793.21,Contractor
+LD-321,29/01/2024,Referral,Warehouse Equipment,South East,85,Lost,51160.52,Government
+LD-322,15/07/2022,Online Directory,Packaging,Midlands,56,Enquiry,26088.57,Trade
+LD-323,16/12/2022,Online Directory,Safety Products,South West,24,Enquiry,74827.75,Retail
+LD-324,12/06/2022,Trade Show,Warehouse Equipment,North,24,Won,84293.74,Contractor
+LD-325,28/02/2023,Cold Call,Warehouse Equipment,South West,48,Proposal Sent,33499.1,Government
+LD-326,01/02/2022,Cold Call,Industrial Hardware,South East,27,Lost,11759.93,Contractor
+LD-327,09/10/2022,Referral,MRO Supplies,South East,55,Lost,59505.1,Retail
+LD-328,03/05/2024,Email Campaign,Warehouse Equipment,North,94,Proposal Sent,51118.89,Trade
+LD-329,22/07/2024,Trade Show,Safety Products,South West,12,Qualified,64477.8,Trade
+LD-330,01/10/2022,Website,Packaging,South East,83,Proposal Sent,18419.44,Contractor
+LD-331,18/11/2022,Email Campaign,Industrial Hardware,North,11,Lost,5248.64,Government
+LD-332,23/11/2022,Trade Show,Safety Products,South East,55,Proposal Sent,31859.57,Retail
+LD-333,10/05/2023,Referral,Warehouse Equipment,Midlands,76,Qualified,36290.45,Government
+LD-334,09/10/2022,Referral,Safety Products,London,18,Enquiry,32683.33,Contractor
+LD-335,15/09/2024,Online Directory,Warehouse Equipment,South West,68,Won,64198.26,Retail
+LD-336,11/12/2023,Trade Show,Warehouse Equipment,South East,8,Enquiry,10525.04,Government
+LD-337,15/08/2024,Cold Call,Industrial Hardware,North,72,Enquiry,26519.95,Contractor
+LD-338,29/07/2022,Referral,MRO Supplies,London,51,Proposal Sent,55315.94,Contractor
+LD-339,24/04/2022,Referral,Warehouse Equipment,Midlands,17,Proposal Sent,42628.63,Retail
+LD-340,11/08/2024,Cold Call,Warehouse Equipment,North,82,Won,82105.14,Retail
+LD-341,19/12/2024,Trade Show,Packaging,North,61,Enquiry,53409.29,Retail
+LD-342,11/11/2023,Trade Show,Safety Products,North,19,Lost,63417.18,Contractor
+LD-343,03/02/2024,Website,Packaging,Midlands,31,Won,15578.06,Government
+LD-344,29/09/2023,Email Campaign,Safety Products,South West,29,Won,62815.86,Contractor
+LD-345,27/04/2024,Trade Show,Warehouse Equipment,South West,41,Proposal Sent,32028.54,Government
+LD-346,06/07/2024,Referral,Industrial Hardware,Midlands,23,Proposal Sent,67264.79,Trade
+LD-347,15/04/2023,Online Directory,Safety Products,London,73,Proposal Sent,30398.76,Trade
+LD-348,08/09/2024,Online Directory,MRO Supplies,South East,77,Proposal Sent,34677.53,Retail
+LD-349,23/10/2023,Trade Show,Safety Products,Midlands,91,Enquiry,10816.76,Retail
+LD-350,05/05/2023,Trade Show,Warehouse Equipment,South West,53,Lost,58529.83,Contractor
+LD-351,25/03/2023,Cold Call,Industrial Hardware,South West,37,Enquiry,66364.45,Government
+LD-352,14/04/2024,Online Directory,MRO Supplies,North,30,Won,55956.32,Government
+LD-353,10/10/2023,Email Campaign,Packaging,London,13,Proposal Sent,24868.21,Contractor
+LD-354,28/07/2022,Website,Warehouse Equipment,South East,12,Lost,14260.48,Retail
+LD-355,28/04/2023,Email Campaign,Industrial Hardware,North,20,Enquiry,48227.32,Retail
+LD-356,27/05/2023,Website,MRO Supplies,London,73,Won,49793.19,Trade
+LD-357,25/04/2024,Website,Packaging,London,20,Proposal Sent,3622.4,Contractor
+LD-358,20/07/2022,Website,Packaging,South West,75,Proposal Sent,62763.73,Trade
+LD-359,15/09/2023,Email Campaign,Warehouse Equipment,South East,46,Lost,9076.43,Trade
+LD-360,26/05/2023,Trade Show,Warehouse Equipment,Midlands,76,Proposal Sent,40546.6,Contractor
+LD-361,03/04/2024,Website,Packaging,North,58,Won,44744.47,Government
+LD-362,29/04/2024,Referral,Safety Products,London,46,Enquiry,37374.94,Trade
+LD-363,11/05/2022,Referral,Safety Products,London,47,Lost,58439.6,Contractor
+LD-364,01/09/2022,Online Directory,Safety Products,North,17,Lost,67690.55,Retail
+LD-365,23/06/2023,Referral,MRO Supplies,South West,31,Won,20424.13,Retail
+LD-366,01/01/2023,Referral,Packaging,London,24,Lost,39886.12,Trade
+LD-367,11/02/2024,Trade Show,Warehouse Equipment,North,84,Won,71695.61,Retail
+LD-368,13/12/2024,Trade Show,Warehouse Equipment,London,82,Proposal Sent,9045.63,Government
+LD-369,15/06/2022,Email Campaign,Safety Products,Midlands,30,Enquiry,12000.91,Trade
+LD-370,13/08/2022,Online Directory,Safety Products,London,31,Lost,75134.11,Retail
+LD-371,11/04/2024,Referral,Safety Products,South West,39,Enquiry,50300.01,Trade
+LD-372,09/10/2024,Referral,MRO Supplies,Midlands,93,Won,3044.9,Contractor
+LD-373,10/06/2022,Email Campaign,Warehouse Equipment,South West,72,Lost,8121.67,Retail
+LD-374,10/08/2024,Cold Call,MRO Supplies,North,70,Qualified,26946.47,Retail
+LD-375,16/11/2024,Website,Safety Products,South East,66,Qualified,70866.63,Government
+LD-376,10/09/2024,Website,Packaging,South West,36,Lost,30308.29,Retail
+LD-377,15/02/2024,Trade Show,MRO Supplies,South East,91,Enquiry,6629.16,Contractor
+LD-378,13/12/2022,Website,Packaging,South West,79,Qualified,83082.32,Contractor
+LD-379,08/02/2022,Email Campaign,Warehouse Equipment,South West,86,Lost,59197.2,Trade
+LD-380,09/11/2022,Referral,Safety Products,South East,74,Won,81637.05,Retail
+LD-381,24/12/2024,Email Campaign,Warehouse Equipment,London,43,Proposal Sent,58938.0,Trade
+LD-382,29/08/2022,Referral,Packaging,South East,40,Lost,60378.19,Trade
+LD-383,12/08/2023,Referral,Packaging,North,29,Won,74181.46,Trade
+LD-384,02/05/2023,Cold Call,Warehouse Equipment,South East,92,Proposal Sent,46537.89,Retail
+LD-385,16/12/2024,Trade Show,MRO Supplies,South West,90,Won,74229.39,Retail
+LD-386,21/05/2022,Trade Show,Packaging,Midlands,58,Lost,71232.42,Retail
+LD-387,01/06/2023,Online Directory,Industrial Hardware,South East,57,Proposal Sent,52984.79,Contractor
+LD-388,06/10/2024,Email Campaign,Safety Products,South West,34,Enquiry,69631.52,Government
+LD-389,09/03/2024,Website,Warehouse Equipment,South East,47,Qualified,51067.75,Government
+LD-390,06/10/2023,Website,Safety Products,South West,89,Enquiry,12395.88,Government
+LD-391,13/11/2022,Online Directory,Packaging,North,91,Enquiry,54502.52,Trade
+LD-392,07/09/2024,Trade Show,MRO Supplies,Midlands,28,Lost,80881.06,Government
+LD-393,14/02/2022,Online Directory,MRO Supplies,Midlands,86,Proposal Sent,63830.86,Retail
+LD-394,07/11/2022,Cold Call,Industrial Hardware,London,81,Qualified,5618.95,Government
+LD-395,25/05/2024,Website,Safety Products,Midlands,52,Lost,11637.15,Government
+LD-396,06/10/2022,Website,Industrial Hardware,North,45,Enquiry,73588.31,Retail
+LD-397,06/11/2022,Referral,Warehouse Equipment,North,53,Enquiry,52673.07,Retail
+LD-398,04/03/2024,Cold Call,MRO Supplies,South East,33,Proposal Sent,61984.28,Retail
+LD-399,25/02/2022,Cold Call,Packaging,North,50,Qualified,67548.1,Government
+LD-400,07/12/2022,Website,Safety Products,London,19,Qualified,53749.24,Retail
+LD-401,07/07/2022,Cold Call,Industrial Hardware,South West,76,Enquiry,45385.56,Government
+LD-402,05/02/2022,Online Directory,Industrial Hardware,London,65,Enquiry,80694.78,Government
+LD-403,17/04/2024,Website,Packaging,South West,4,Won,46996.23,Retail
+LD-404,15/06/2023,Online Directory,MRO Supplies,South East,93,Enquiry,20823.44,Contractor
+LD-405,25/12/2022,Website,Warehouse Equipment,North,39,Qualified,18056.26,Retail
+LD-406,01/07/2022,Trade Show,MRO Supplies,London,23,Lost,28602.84,Government
+LD-407,07/07/2023,Online Directory,Warehouse Equipment,Midlands,96,Qualified,82700.28,Trade
+LD-408,14/06/2023,Cold Call,Warehouse Equipment,South West,44,Enquiry,29245.39,Retail
+LD-409,07/09/2023,Trade Show,Packaging,South East,94,Proposal Sent,17503.1,Government
+LD-410,02/10/2023,Trade Show,Industrial Hardware,London,21,Enquiry,84107.98,Government
+LD-411,10/06/2022,Referral,Warehouse Equipment,North,31,Lost,77887.23,Retail
+LD-412,12/03/2022,Website,Safety Products,Midlands,29,Enquiry,55519.13,Government
+LD-413,05/12/2024,Referral,Industrial Hardware,South East,1,Won,38518.33,Retail
+LD-414,08/04/2024,Online Directory,Safety Products,North,56,Proposal Sent,70078.91,Government
+LD-415,12/11/2022,Referral,Industrial Hardware,Midlands,87,Qualified,40407.44,Contractor
+LD-416,09/10/2022,Email Campaign,Packaging,Midlands,18,Won,37562.27,Trade
+LD-417,06/05/2022,Online Directory,Packaging,North,33,Proposal Sent,67635.02,Government
+LD-418,18/08/2022,Website,MRO Supplies,Midlands,27,Proposal Sent,37405.57,Contractor
+LD-419,25/04/2022,Cold Call,Packaging,Midlands,16,Won,6638.74,Contractor
+LD-420,04/03/2022,Website,Warehouse Equipment,Midlands,20,Qualified,50254.37,Contractor
+LD-421,02/12/2022,Online Directory,Safety Products,North,48,Won,74127.62,Trade
+LD-422,14/05/2022,Website,MRO Supplies,London,68,Enquiry,65651.71,Trade
+LD-423,03/11/2024,Cold Call,Industrial Hardware,Midlands,40,Qualified,72079.58,Government
+LD-424,18/11/2022,Email Campaign,Warehouse Equipment,South East,65,Proposal Sent,27645.69,Retail
+LD-425,12/08/2024,Trade Show,Safety Products,South East,93,Qualified,20138.4,Trade
+LD-426,13/09/2022,Email Campaign,Packaging,Midlands,11,Enquiry,67142.07,Trade
+LD-427,16/02/2022,Trade Show,Safety Products,London,67,Proposal Sent,41204.25,Contractor
+LD-428,25/02/2022,Cold Call,Industrial Hardware,Midlands,12,Qualified,34133.86,Trade
+LD-429,08/06/2022,Website,Industrial Hardware,Midlands,72,Qualified,66185.6,Government
+LD-430,24/04/2023,Website,Industrial Hardware,South East,57,Won,1074.97,Contractor
+LD-431,05/10/2022,Referral,Safety Products,Midlands,25,Qualified,18722.27,Trade
+LD-432,10/12/2024,Trade Show,Warehouse Equipment,Midlands,20,Qualified,70668.15,Government
+LD-433,31/08/2023,Online Directory,MRO Supplies,Midlands,49,Qualified,15650.02,Retail
+LD-434,03/09/2023,Trade Show,Industrial Hardware,South West,32,Lost,9968.77,Contractor
+LD-435,22/01/2023,Referral,Packaging,London,51,Qualified,31268.76,Trade
+LD-436,04/08/2024,Online Directory,Safety Products,South West,23,Won,61157.54,Trade
+LD-437,22/04/2024,Online Directory,Industrial Hardware,London,80,Lost,83210.55,Trade
+LD-438,10/03/2024,Website,Packaging,South West,14,Qualified,52590.97,Retail
+LD-439,26/09/2023,Online Directory,Warehouse Equipment,Midlands,34,Won,3221.88,Retail
+LD-440,26/04/2022,Referral,Industrial Hardware,Midlands,33,Proposal Sent,82793.45,Government
+LD-441,04/03/2022,Cold Call,Safety Products,North,72,Won,37570.93,Contractor
+LD-442,21/04/2022,Trade Show,Warehouse Equipment,South East,44,Enquiry,25903.49,Contractor
+LD-443,16/05/2024,Referral,Industrial Hardware,Midlands,88,Lost,65274.78,Contractor
+LD-444,14/09/2022,Trade Show,Packaging,London,6,Qualified,19303.93,Contractor
+LD-445,07/04/2022,Cold Call,MRO Supplies,London,16,Enquiry,21743.63,Retail
+LD-446,11/01/2024,Cold Call,MRO Supplies,London,21,Proposal Sent,952.55,Trade
+LD-447,31/10/2023,Email Campaign,MRO Supplies,Midlands,15,Qualified,19367.4,Trade
+LD-448,31/10/2023,Trade Show,Packaging,Midlands,17,Enquiry,24266.07,Government
+LD-449,20/11/2024,Cold Call,MRO Supplies,South West,63,Qualified,77526.75,Retail
+LD-450,12/02/2022,Trade Show,Safety Products,London,67,Lost,9419.71,Contractor
+LD-451,19/06/2024,Cold Call,Packaging,London,95,Proposal Sent,44540.45,Contractor
+LD-452,10/02/2023,Website,Industrial Hardware,London,94,Enquiry,83692.97,Government
+LD-453,17/05/2022,Trade Show,Packaging,Midlands,67,Lost,7601.37,Contractor
+LD-454,28/11/2023,Trade Show,Warehouse Equipment,South East,21,Qualified,3271.59,Contractor
+LD-455,08/02/2022,Website,Safety Products,South East,2,Qualified,22504.61,Contractor
+LD-456,27/11/2023,Email Campaign,Packaging,North,12,Enquiry,81992.81,Trade
+LD-457,24/04/2024,Online Directory,Warehouse Equipment,South West,92,Proposal Sent,46647.76,Trade
+LD-458,25/12/2022,Cold Call,Packaging,Midlands,73,Lost,83138.44,Retail
+LD-459,08/04/2024,Website,MRO Supplies,North,59,Proposal Sent,80180.46,Retail
+LD-460,07/04/2023,Trade Show,Packaging,London,34,Lost,22787.12,Trade
+LD-461,07/07/2024,Email Campaign,MRO Supplies,London,6,Enquiry,26761.46,Government
+LD-462,28/09/2024,Website,Safety Products,South East,83,Lost,51628.78,Contractor
+LD-463,01/07/2023,Email Campaign,Safety Products,South East,15,Lost,23884.56,Contractor
+LD-464,02/04/2023,Website,Industrial Hardware,Midlands,49,Won,17618.27,Trade
+LD-465,12/03/2023,Trade Show,MRO Supplies,South West,63,Won,8061.0,Retail
+LD-466,13/10/2022,Referral,Safety Products,North,58,Lost,42815.16,Contractor
+LD-467,22/11/2023,Trade Show,Packaging,North,39,Qualified,51119.9,Contractor
+LD-468,12/06/2024,Trade Show,Industrial Hardware,North,32,Qualified,38385.48,Retail
+LD-469,21/05/2022,Referral,Industrial Hardware,South West,36,Won,76146.69,Government
+LD-470,15/12/2024,Email Campaign,Warehouse Equipment,London,62,Proposal Sent,35450.55,Retail
+LD-471,13/03/2023,Referral,MRO Supplies,South East,12,Lost,40137.27,Trade
+LD-472,22/09/2023,Email Campaign,Packaging,Midlands,75,Lost,73595.09,Government
+LD-473,17/02/2022,Referral,Warehouse Equipment,Midlands,61,Lost,76671.47,Trade
+LD-474,15/12/2024,Website,MRO Supplies,Midlands,64,Proposal Sent,11249.16,Retail
+LD-475,22/09/2023,Website,MRO Supplies,London,2,Proposal Sent,28485.24,Government
+LD-476,10/04/2024,Online Directory,Industrial Hardware,North,18,Lost,82263.27,Government
+LD-477,28/01/2024,Online Directory,Warehouse Equipment,London,88,Enquiry,76051.94,Contractor
+LD-478,08/06/2023,Email Campaign,MRO Supplies,South East,61,Lost,59519.41,Trade
+LD-479,23/01/2024,Referral,Packaging,North,78,Enquiry,76822.02,Retail
+LD-480,13/07/2022,Online Directory,Industrial Hardware,South West,66,Enquiry,59735.01,Retail
+LD-481,13/10/2024,Cold Call,Safety Products,South West,83,Qualified,82477.83,Government
+LD-482,17/02/2022,Trade Show,Packaging,South East,92,Qualified,64086.92,Government
+LD-483,01/05/2022,Online Directory,MRO Supplies,South West,20,Enquiry,41451.29,Contractor
+LD-484,17/11/2022,Online Directory,Packaging,Midlands,25,Qualified,59982.78,Contractor
+LD-485,13/02/2023,Referral,Packaging,South East,96,Qualified,47867.73,Contractor
+LD-486,02/03/2024,Online Directory,MRO Supplies,South West,37,Lost,10325.69,Contractor
+LD-487,15/05/2024,Email Campaign,Safety Products,North,14,Enquiry,49801.49,Government
+LD-488,17/01/2024,Website,Warehouse Equipment,Midlands,9,Enquiry,56666.16,Retail
+LD-489,24/09/2024,Cold Call,Packaging,Midlands,93,Qualified,41627.32,Trade
+LD-490,27/10/2024,Referral,Safety Products,South West,80,Proposal Sent,59646.28,Government
+LD-491,10/07/2022,Online Directory,Warehouse Equipment,Midlands,33,Qualified,78276.56,Contractor
+LD-492,03/10/2022,Website,Industrial Hardware,Midlands,24,Lost,16860.69,Government
+LD-493,18/01/2024,Referral,MRO Supplies,Midlands,67,Enquiry,17674.95,Contractor
+LD-494,10/08/2023,Website,Industrial Hardware,Midlands,66,Qualified,66809.68,Trade
+LD-495,31/03/2022,Cold Call,Packaging,South West,25,Proposal Sent,65852.83,Contractor
+LD-496,12/01/2024,Cold Call,Warehouse Equipment,Midlands,38,Qualified,30396.73,Retail
+LD-497,23/08/2023,Website,Industrial Hardware,North,8,Enquiry,8509.67,Contractor
+LD-498,02/08/2024,Email Campaign,Safety Products,North,93,Won,66005.5,Trade
+LD-499,22/01/2023,Website,Warehouse Equipment,North,8,Lost,41651.42,Government
+LD-500,09/01/2022,Online Directory,Industrial Hardware,London,51,Won,3955.4,Contractor
+LD-501,18/04/2022,Email Campaign,Packaging,South West,1,Lost,11071.76,Contractor
+LD-502,06/02/2024,Online Directory,Safety Products,South East,33,Enquiry,13352.72,Government
+LD-503,15/12/2023,Trade Show,MRO Supplies,North,94,Qualified,23315.18,Contractor
+LD-504,18/05/2024,Email Campaign,Industrial Hardware,South East,76,Lost,31257.99,Contractor
+LD-505,25/11/2023,Website,MRO Supplies,South East,26,Qualified,7322.6,Retail
+LD-506,04/10/2023,Online Directory,MRO Supplies,South East,46,Enquiry,55540.64,Retail
+LD-507,17/10/2022,Online Directory,Industrial Hardware,South West,64,Lost,83062.81,Retail
+LD-508,31/10/2024,Referral,Warehouse Equipment,South West,1,Won,16347.88,Contractor
+LD-509,18/05/2024,Online Directory,Warehouse Equipment,Midlands,60,Proposal Sent,78218.46,Government
+LD-510,18/08/2023,Email Campaign,Warehouse Equipment,Midlands,80,Qualified,9694.55,Government
+LD-511,03/01/2024,Email Campaign,Warehouse Equipment,North,3,Qualified,73913.04,Government
+LD-512,21/12/2023,Trade Show,Warehouse Equipment,South East,71,Enquiry,800.33,Trade
+LD-513,09/01/2022,Trade Show,Industrial Hardware,Midlands,95,Qualified,66175.71,Trade
+LD-514,20/07/2024,Website,Safety Products,London,49,Qualified,20275.19,Contractor
+LD-515,01/01/2022,Email Campaign,MRO Supplies,South East,28,Enquiry,42948.52,Government
+LD-516,31/07/2024,Referral,Industrial Hardware,South East,16,Proposal Sent,17789.67,Retail
+LD-517,25/01/2023,Email Campaign,Industrial Hardware,Midlands,63,Proposal Sent,19945.31,Contractor
+LD-518,25/12/2022,Trade Show,Safety Products,North,44,Qualified,36632.71,Trade
+LD-519,17/09/2022,Email Campaign,Warehouse Equipment,North,41,Proposal Sent,55390.57,Retail
+LD-520,20/02/2024,Website,Packaging,North,70,Qualified,15796.8,Government
+LD-521,29/01/2023,Cold Call,Packaging,North,95,Proposal Sent,57074.47,Retail
+LD-522,16/06/2024,Referral,Industrial Hardware,North,73,Enquiry,54187.62,Trade
+LD-523,07/01/2022,Trade Show,Safety Products,South East,38,Enquiry,16965.61,Government
+LD-524,07/04/2022,Email Campaign,MRO Supplies,South East,22,Enquiry,5363.62,Contractor
+LD-525,04/08/2022,Email Campaign,MRO Supplies,Midlands,63,Lost,8675.74,Trade
+LD-526,09/05/2023,Trade Show,Warehouse Equipment,London,47,Qualified,24536.73,Trade
+LD-527,31/08/2022,Referral,Industrial Hardware,South East,54,Enquiry,18257.61,Trade
+LD-528,23/11/2023,Email Campaign,Warehouse Equipment,South East,43,Proposal Sent,62299.16,Trade
+LD-529,07/06/2024,Trade Show,MRO Supplies,London,17,Qualified,75178.38,Government
+LD-530,25/11/2022,Cold Call,Packaging,London,41,Enquiry,65126.58,Government
+LD-531,25/12/2023,Referral,Safety Products,Midlands,88,Qualified,76385.85,Contractor
+LD-532,02/04/2023,Online Directory,Industrial Hardware,Midlands,8,Qualified,24748.76,Trade
+LD-533,10/04/2023,Website,MRO Supplies,South East,85,Proposal Sent,29721.03,Trade
+LD-534,22/01/2022,Online Directory,MRO Supplies,South East,87,Won,18479.25,Trade
+LD-535,21/09/2022,Online Directory,Industrial Hardware,North,17,Enquiry,74183.02,Government
+LD-536,07/08/2022,Trade Show,Warehouse Equipment,South East,20,Proposal Sent,57933.74,Contractor
+LD-537,16/11/2023,Referral,Industrial Hardware,South West,4,Qualified,27184.7,Trade
+LD-538,05/07/2022,Email Campaign,Packaging,South East,60,Enquiry,30589.33,Contractor
+LD-539,31/08/2022,Website,Packaging,North,93,Lost,72613.86,Contractor
+LD-540,05/05/2023,Website,Industrial Hardware,London,89,Enquiry,46953.67,Trade
+LD-541,19/07/2024,Online Directory,Packaging,London,21,Won,32361.63,Contractor
+LD-542,26/09/2022,Trade Show,Packaging,South East,28,Enquiry,13523.46,Retail
+LD-543,28/04/2024,Cold Call,Packaging,London,90,Proposal Sent,60576.0,Trade
+LD-544,13/01/2022,Referral,Warehouse Equipment,South East,77,Lost,77886.67,Contractor
+LD-545,22/12/2023,Online Directory,Industrial Hardware,South West,57,Won,30588.36,Government
+LD-546,21/10/2023,Email Campaign,Industrial Hardware,Midlands,47,Won,50816.64,Government
+LD-547,28/01/2023,Trade Show,Industrial Hardware,London,21,Lost,42492.16,Retail
+LD-548,09/05/2022,Referral,Packaging,Midlands,33,Qualified,46149.59,Retail
+LD-549,13/10/2024,Email Campaign,Warehouse Equipment,North,15,Enquiry,37402.88,Retail
+LD-550,03/10/2024,Cold Call,MRO Supplies,South East,95,Qualified,53394.23,Government
+LD-551,09/05/2022,Trade Show,Warehouse Equipment,South West,38,Proposal Sent,65090.95,Government
+LD-552,24/01/2024,Website,Safety Products,North,74,Won,60683.55,Government
+LD-553,19/12/2023,Online Directory,MRO Supplies,Midlands,56,Enquiry,56753.95,Retail
+LD-554,11/08/2024,Trade Show,Warehouse Equipment,South West,57,Proposal Sent,25930.26,Trade
+LD-555,03/10/2023,Referral,Safety Products,North,79,Won,78653.6,Contractor
+LD-556,26/08/2023,Email Campaign,Warehouse Equipment,Midlands,8,Won,20608.13,Retail
+LD-557,29/07/2024,Online Directory,Warehouse Equipment,London,95,Lost,21190.05,Contractor
+LD-558,21/11/2024,Online Directory,Safety Products,Midlands,26,Proposal Sent,72169.84,Trade
+LD-559,31/12/2022,Website,Packaging,London,19,Lost,16526.55,Trade
+LD-560,10/01/2024,Online Directory,Safety Products,North,55,Lost,14482.51,Contractor
+LD-561,30/05/2022,Email Campaign,Safety Products,North,76,Proposal Sent,11533.12,Contractor
+LD-562,22/11/2022,Website,Safety Products,South East,93,Proposal Sent,78440.6,Retail
+LD-563,02/06/2022,Referral,Safety Products,North,12,Won,26777.86,Contractor
+LD-564,09/02/2022,Email Campaign,Warehouse Equipment,London,67,Qualified,26805.62,Trade
+LD-565,15/06/2023,Trade Show,Industrial Hardware,South East,67,Lost,76420.89,Retail
+LD-566,14/05/2022,Referral,MRO Supplies,London,32,Lost,75754.23,Government
+LD-567,11/07/2024,Website,Packaging,Midlands,27,Proposal Sent,41589.81,Contractor
+LD-568,08/03/2022,Trade Show,Safety Products,South West,31,Proposal Sent,2095.22,Contractor
+LD-569,10/07/2024,Cold Call,MRO Supplies,South East,71,Won,74491.56,Contractor
+LD-570,07/02/2022,Email Campaign,Warehouse Equipment,North,57,Enquiry,56287.68,Contractor
+LD-571,22/05/2023,Website,MRO Supplies,Midlands,56,Enquiry,55153.12,Trade
+LD-572,15/05/2023,Online Directory,MRO Supplies,South East,61,Won,6421.45,Government
+LD-573,31/07/2023,Website,Warehouse Equipment,South West,14,Proposal Sent,59559.23,Trade
+LD-574,15/11/2024,Online Directory,Warehouse Equipment,Midlands,14,Proposal Sent,53943.1,Trade
+LD-575,09/10/2024,Cold Call,Warehouse Equipment,South West,25,Won,24460.92,Contractor
+LD-576,16/12/2024,Email Campaign,Warehouse Equipment,South West,53,Proposal Sent,46637.11,Trade
+LD-577,14/01/2023,Online Directory,Industrial Hardware,London,34,Won,48702.96,Government
+LD-578,09/06/2023,Email Campaign,Industrial Hardware,London,71,Enquiry,32794.72,Contractor
+LD-579,09/07/2024,Referral,Industrial Hardware,South East,32,Qualified,56312.98,Retail
+LD-580,27/11/2024,Cold Call,Industrial Hardware,London,83,Won,54290.31,Contractor
+LD-581,17/07/2022,Website,Warehouse Equipment,London,22,Enquiry,55567.86,Contractor
+LD-582,26/03/2024,Website,Packaging,South East,37,Won,29599.0,Contractor
+LD-583,21/04/2024,Email Campaign,Industrial Hardware,South West,44,Enquiry,27055.9,Trade
+LD-584,10/06/2022,Email Campaign,Packaging,Midlands,83,Lost,70704.55,Government
+LD-585,29/05/2024,Online Directory,MRO Supplies,Midlands,52,Won,15676.9,Retail
+LD-586,03/01/2022,Website,Industrial Hardware,London,64,Won,32683.45,Government
+LD-587,07/03/2022,Referral,Industrial Hardware,North,17,Lost,80819.1,Contractor
+LD-588,07/07/2023,Trade Show,Warehouse Equipment,South West,36,Qualified,56131.0,Government
+LD-589,06/02/2024,Email Campaign,MRO Supplies,South East,55,Qualified,48915.46,Trade
+LD-590,10/05/2023,Email Campaign,Industrial Hardware,South West,14,Enquiry,13687.13,Trade
+LD-591,31/03/2023,Trade Show,Safety Products,London,70,Enquiry,39523.76,Government
+LD-592,03/07/2023,Trade Show,MRO Supplies,North,51,Lost,51236.05,Retail
+LD-593,02/03/2023,Website,Industrial Hardware,South West,49,Enquiry,38614.37,Retail
+LD-594,04/02/2023,Trade Show,Industrial Hardware,South West,35,Proposal Sent,68624.5,Trade
+LD-595,13/12/2022,Email Campaign,Warehouse Equipment,London,44,Lost,61827.17,Trade
+LD-596,23/07/2024,Email Campaign,Warehouse Equipment,South West,79,Enquiry,61461.04,Trade
+LD-597,11/06/2022,Website,Industrial Hardware,Midlands,38,Enquiry,28006.7,Trade
+LD-598,14/08/2022,Cold Call,Industrial Hardware,South West,30,Proposal Sent,58910.76,Contractor
+LD-599,26/06/2022,Trade Show,Safety Products,Midlands,59,Enquiry,25814.79,Trade
+LD-600,19/04/2023,Website,MRO Supplies,South West,78,Lost,70805.37,Retail
+LD-601,14/10/2023,Email Campaign,Safety Products,London,51,Lost,17818.96,Government
+LD-602,28/05/2023,Online Directory,Industrial Hardware,London,61,Lost,19251.17,Contractor
+LD-603,21/12/2022,Referral,Industrial Hardware,South East,8,Qualified,9338.72,Government
+LD-604,07/01/2022,Trade Show,Safety Products,London,96,Enquiry,64252.11,Trade
+LD-605,23/02/2023,Website,Industrial Hardware,South West,32,Enquiry,78199.01,Trade
+LD-606,07/02/2023,Email Campaign,Safety Products,London,45,Proposal Sent,7985.56,Government
+LD-607,10/03/2022,Cold Call,Safety Products,North,39,Lost,41994.63,Contractor
+LD-608,12/03/2022,Online Directory,Industrial Hardware,North,50,Enquiry,5799.6,Trade
+LD-609,15/07/2022,Trade Show,MRO Supplies,South West,80,Won,35661.99,Retail
+LD-610,05/11/2024,Website,Packaging,London,18,Enquiry,7499.76,Government
+LD-611,22/06/2022,Cold Call,Safety Products,London,42,Proposal Sent,7140.03,Government
+LD-612,21/02/2023,Referral,Industrial Hardware,Midlands,18,Enquiry,6274.41,Government
+LD-613,16/03/2022,Trade Show,Warehouse Equipment,South West,33,Qualified,15830.77,Government
+LD-614,21/12/2023,Online Directory,Warehouse Equipment,South West,95,Won,8570.54,Trade
+LD-615,13/08/2023,Online Directory,MRO Supplies,London,83,Won,34504.08,Government
+LD-616,08/08/2024,Referral,Packaging,South East,91,Enquiry,17901.6,Contractor
+LD-617,13/11/2022,Trade Show,Safety Products,Midlands,89,Lost,36672.56,Contractor
+LD-618,25/05/2022,Referral,Safety Products,North,74,Won,84669.13,Trade
+LD-619,14/08/2023,Trade Show,MRO Supplies,North,31,Enquiry,76518.46,Government
+LD-620,14/10/2024,Referral,Packaging,South East,54,Qualified,35134.46,Government
+LD-621,16/06/2024,Website,Safety Products,South West,69,Won,61805.45,Retail
+LD-622,11/07/2022,Email Campaign,Warehouse Equipment,Midlands,53,Proposal Sent,25407.44,Government
+LD-623,08/12/2024,Trade Show,MRO Supplies,Midlands,63,Enquiry,9090.6,Trade
+LD-624,06/05/2024,Referral,Packaging,London,40,Proposal Sent,13080.31,Government
+LD-625,08/09/2024,Website,Warehouse Equipment,South West,53,Won,15846.2,Retail
+LD-626,18/07/2024,Trade Show,Industrial Hardware,Midlands,52,Qualified,35055.59,Government
+LD-627,18/01/2022,Email Campaign,MRO Supplies,Midlands,77,Proposal Sent,73665.42,Retail
+LD-628,20/04/2022,Online Directory,MRO Supplies,London,63,Qualified,68475.11,Trade
+LD-629,21/12/2024,Online Directory,Industrial Hardware,South West,64,Proposal Sent,67911.36,Contractor
+LD-630,05/06/2024,Trade Show,MRO Supplies,South East,23,Proposal Sent,63961.45,Retail
+LD-631,13/12/2024,Cold Call,MRO Supplies,North,81,Lost,46608.41,Government
+LD-632,01/11/2023,Referral,Safety Products,North,86,Lost,70222.5,Government
+LD-633,30/06/2023,Email Campaign,MRO Supplies,South West,29,Proposal Sent,66493.66,Retail
+LD-634,04/02/2022,Referral,Safety Products,Midlands,19,Enquiry,40110.87,Trade
+LD-635,19/10/2022,Trade Show,Warehouse Equipment,South East,94,Qualified,12435.75,Trade
+LD-636,07/09/2022,Referral,Packaging,North,34,Proposal Sent,14896.65,Retail
+LD-637,18/04/2024,Email Campaign,Safety Products,South East,67,Proposal Sent,20015.12,Retail
+LD-638,24/02/2024,Website,Safety Products,London,19,Enquiry,60074.44,Contractor
+LD-639,11/02/2023,Cold Call,Warehouse Equipment,London,5,Proposal Sent,8459.58,Trade
+LD-640,12/11/2022,Trade Show,Safety Products,London,23,Proposal Sent,28805.72,Trade
+LD-641,09/12/2023,Website,MRO Supplies,Midlands,14,Proposal Sent,26596.09,Contractor
+LD-642,07/02/2023,Email Campaign,Industrial Hardware,London,70,Qualified,64071.96,Trade
+LD-643,09/01/2024,Email Campaign,Industrial Hardware,Midlands,14,Won,80874.97,Government
+LD-644,24/04/2022,Referral,Warehouse Equipment,South West,27,Proposal Sent,21360.13,Retail
+LD-645,26/03/2023,Referral,Warehouse Equipment,Midlands,74,Won,23739.8,Trade
+LD-646,05/08/2023,Online Directory,MRO Supplies,London,52,Qualified,9528.62,Government
+LD-647,04/04/2024,Trade Show,Packaging,South West,79,Qualified,30171.95,Contractor
+LD-648,16/05/2023,Website,Safety Products,South West,75,Enquiry,15184.45,Government
+LD-649,23/04/2023,Referral,Warehouse Equipment,Midlands,45,Lost,54452.84,Trade
+LD-650,18/12/2022,Website,Safety Products,South East,7,Lost,40150.58,Retail
+LD-651,27/09/2024,Trade Show,Safety Products,Midlands,46,Proposal Sent,57533.98,Retail
+LD-652,27/11/2022,Trade Show,Industrial Hardware,North,3,Qualified,64975.55,Retail
+LD-653,04/09/2023,Trade Show,Packaging,Midlands,4,Proposal Sent,44947.56,Trade
+LD-654,22/01/2023,Website,Industrial Hardware,North,14,Enquiry,67792.84,Government
+LD-655,02/12/2022,Cold Call,Packaging,Midlands,21,Enquiry,71274.97,Trade
+LD-656,23/12/2022,Email Campaign,Industrial Hardware,North,9,Won,81917.15,Contractor
+LD-657,12/08/2024,Cold Call,Warehouse Equipment,South East,4,Enquiry,67650.95,Government
+LD-658,22/01/2024,Trade Show,MRO Supplies,North,11,Won,65909.24,Government
+LD-659,23/11/2022,Trade Show,MRO Supplies,Midlands,22,Enquiry,13861.67,Government
+LD-660,12/12/2024,Online Directory,Warehouse Equipment,Midlands,33,Lost,35325.72,Contractor
+LD-661,30/04/2022,Referral,Safety Products,South East,81,Proposal Sent,41079.92,Trade
+LD-662,25/07/2023,Website,Warehouse Equipment,South West,11,Enquiry,24200.39,Trade
+LD-663,30/08/2023,Cold Call,Packaging,South East,28,Proposal Sent,12069.61,Contractor
+LD-664,06/03/2024,Online Directory,Industrial Hardware,North,46,Lost,29515.48,Government
+LD-665,16/03/2023,Trade Show,MRO Supplies,North,58,Lost,659.72,Contractor
+LD-666,13/04/2022,Cold Call,MRO Supplies,North,47,Lost,56179.43,Government
+LD-667,16/11/2024,Online Directory,MRO Supplies,London,29,Lost,84399.38,Government
+LD-668,18/05/2024,Referral,Packaging,London,11,Enquiry,29037.17,Trade
+LD-669,21/05/2024,Referral,MRO Supplies,Midlands,55,Lost,32705.28,Government
+LD-670,14/06/2023,Online Directory,Warehouse Equipment,South East,71,Lost,47470.14,Contractor
+LD-671,04/04/2022,Referral,MRO Supplies,South East,57,Lost,77763.41,Contractor
+LD-672,10/11/2022,Email Campaign,Warehouse Equipment,Midlands,95,Lost,68822.76,Retail
+LD-673,11/06/2023,Trade Show,Industrial Hardware,Midlands,90,Won,16559.3,Contractor
+LD-674,03/06/2022,Email Campaign,MRO Supplies,South West,58,Lost,67296.87,Trade
+LD-675,04/02/2022,Trade Show,Industrial Hardware,South East,17,Lost,60926.51,Trade
+LD-676,01/04/2023,Email Campaign,Packaging,London,87,Proposal Sent,73138.41,Contractor
+LD-677,21/03/2023,Website,Industrial Hardware,South West,25,Proposal Sent,67647.82,Government
+LD-678,10/12/2023,Online Directory,Warehouse Equipment,South West,3,Lost,67927.75,Contractor
+LD-679,01/06/2024,Cold Call,Industrial Hardware,South East,66,Lost,57984.94,Government
+LD-680,24/06/2022,Online Directory,Warehouse Equipment,London,93,Proposal Sent,55394.67,Contractor
+LD-681,08/04/2023,Referral,Warehouse Equipment,North,51,Won,7826.68,Contractor
+LD-682,26/04/2022,Email Campaign,Safety Products,Midlands,39,Proposal Sent,38438.31,Retail
+LD-683,19/07/2024,Referral,Industrial Hardware,South West,78,Qualified,27583.68,Government
+LD-684,23/03/2022,Website,Safety Products,South East,59,Enquiry,41992.71,Contractor
+LD-685,10/05/2023,Online Directory,Warehouse Equipment,London,40,Won,77304.75,Government
+LD-686,07/04/2022,Online Directory,MRO Supplies,Midlands,23,Enquiry,29159.93,Trade
+LD-687,07/04/2024,Online Directory,Industrial Hardware,South East,4,Won,50928.15,Contractor
+LD-688,30/04/2023,Trade Show,Safety Products,South East,44,Enquiry,57871.09,Government
+LD-689,31/07/2023,Website,Packaging,South West,46,Won,33265.79,Retail
+LD-690,29/04/2023,Referral,MRO Supplies,South West,68,Qualified,5305.23,Contractor
+LD-691,11/03/2024,Trade Show,Industrial Hardware,North,82,Proposal Sent,54156.34,Contractor
+LD-692,22/10/2023,Email Campaign,Packaging,London,26,Proposal Sent,47077.68,Trade
+LD-693,03/10/2024,Cold Call,MRO Supplies,North,60,Proposal Sent,51972.97,Government
+LD-694,24/08/2024,Trade Show,Industrial Hardware,Midlands,96,Enquiry,77163.74,Retail
+LD-695,10/02/2022,Online Directory,Industrial Hardware,South West,11,Enquiry,58072.45,Trade
+LD-696,04/06/2023,Website,Industrial Hardware,London,60,Won,80557.85,Trade
+LD-697,27/06/2024,Website,Packaging,South East,31,Won,70926.49,Contractor
+LD-698,29/09/2024,Trade Show,Industrial Hardware,South West,16,Won,80632.66,Contractor
+LD-699,25/07/2024,Trade Show,Industrial Hardware,South East,76,Won,26012.67,Retail
+LD-700,25/09/2022,Cold Call,Safety Products,Midlands,31,Qualified,13537.75,Contractor
+LD-701,21/02/2023,Cold Call,Warehouse Equipment,South West,46,Won,65110.78,Contractor
+LD-702,08/09/2023,Online Directory,Industrial Hardware,North,2,Enquiry,38281.67,Retail
+LD-703,08/10/2022,Referral,Packaging,South East,16,Qualified,83373.05,Retail
+LD-704,14/12/2023,Website,Industrial Hardware,North,48,Qualified,28552.09,Government
+LD-705,04/10/2024,Email Campaign,MRO Supplies,South East,55,Lost,21051.22,Trade
+LD-706,08/06/2023,Website,Packaging,Midlands,84,Proposal Sent,7741.3,Retail
+LD-707,10/09/2023,Referral,Safety Products,South West,13,Qualified,3168.74,Contractor
+LD-708,20/07/2024,Trade Show,Warehouse Equipment,South East,91,Qualified,8067.84,Trade
+LD-709,10/02/2023,Referral,Industrial Hardware,South East,71,Enquiry,59805.05,Trade
+LD-710,05/01/2024,Referral,Packaging,Midlands,10,Enquiry,19319.52,Trade
+LD-711,01/02/2022,Website,Packaging,North,68,Won,22325.04,Retail
+LD-712,07/06/2024,Online Directory,Safety Products,South East,54,Qualified,17476.94,Retail
+LD-713,09/12/2023,Online Directory,Packaging,South East,73,Enquiry,48050.97,Government
+LD-714,24/02/2022,Email Campaign,Safety Products,London,53,Won,58092.79,Contractor
+LD-715,01/04/2024,Online Directory,Industrial Hardware,London,28,Won,1270.66,Trade
+LD-716,23/11/2023,Online Directory,Packaging,South East,8,Qualified,60342.75,Retail
+LD-717,02/07/2024,Email Campaign,MRO Supplies,South West,87,Lost,43522.65,Government
+LD-718,11/02/2024,Online Directory,Warehouse Equipment,South West,22,Proposal Sent,76361.16,Government
+LD-719,30/04/2022,Trade Show,Safety Products,South West,90,Proposal Sent,56822.76,Retail
+LD-720,20/12/2023,Cold Call,Warehouse Equipment,London,12,Proposal Sent,7378.21,Government
+LD-721,31/01/2022,Website,Industrial Hardware,South West,76,Qualified,33017.61,Retail
+LD-722,04/04/2023,Trade Show,Safety Products,North,88,Won,23370.24,Trade
+LD-723,02/12/2022,Trade Show,Safety Products,North,61,Lost,76798.34,Retail
+LD-724,25/08/2022,Trade Show,Warehouse Equipment,North,67,Enquiry,82760.1,Trade
+LD-725,13/04/2024,Trade Show,Warehouse Equipment,North,60,Won,59081.49,Trade
+LD-726,03/06/2024,Trade Show,MRO Supplies,South East,32,Enquiry,43421.28,Retail
+LD-727,15/12/2024,Website,Warehouse Equipment,London,57,Won,40402.33,Contractor
+LD-728,15/10/2024,Email Campaign,Warehouse Equipment,London,20,Proposal Sent,40363.62,Retail
+LD-729,28/12/2022,Online Directory,Safety Products,South East,16,Enquiry,57325.26,Contractor
+LD-730,21/09/2024,Trade Show,Safety Products,Midlands,69,Qualified,14378.13,Contractor
+LD-731,05/08/2022,Cold Call,Warehouse Equipment,South East,22,Qualified,13100.58,Trade
+LD-732,14/07/2023,Cold Call,Warehouse Equipment,South East,65,Won,75357.67,Trade
+LD-733,09/10/2023,Website,MRO Supplies,South East,44,Enquiry,3824.62,Retail
+LD-734,04/02/2024,Trade Show,Industrial Hardware,North,87,Lost,81397.7,Government
+LD-735,20/09/2022,Website,MRO Supplies,South East,31,Proposal Sent,42438.89,Contractor
+LD-736,24/05/2022,Website,Packaging,North,47,Proposal Sent,58029.08,Government
+LD-737,04/11/2022,Online Directory,Packaging,South West,68,Won,35096.16,Government
+LD-738,15/10/2022,Email Campaign,MRO Supplies,Midlands,87,Qualified,45632.93,Contractor
+LD-739,05/08/2022,Referral,Safety Products,North,46,Lost,6564.35,Trade
+LD-740,05/12/2023,Cold Call,MRO Supplies,London,59,Enquiry,59881.77,Government
+LD-741,05/04/2023,Cold Call,Packaging,Midlands,64,Enquiry,1537.21,Government
+LD-742,25/09/2024,Cold Call,Packaging,North,87,Enquiry,84410.26,Retail
+LD-743,27/02/2022,Online Directory,Packaging,Midlands,20,Enquiry,4842.99,Retail
+LD-744,16/01/2022,Referral,Packaging,Midlands,60,Won,64941.11,Contractor
+LD-745,20/11/2023,Cold Call,Packaging,London,86,Lost,22066.29,Trade
+LD-746,30/12/2022,Cold Call,Industrial Hardware,South East,17,Qualified,43084.11,Retail
+LD-747,07/04/2024,Website,MRO Supplies,North,21,Enquiry,49651.96,Retail
+LD-748,09/11/2022,Referral,Warehouse Equipment,South West,2,Lost,57668.53,Retail
+LD-749,22/05/2022,Cold Call,Warehouse Equipment,North,14,Qualified,49335.62,Government
+LD-750,09/08/2024,Email Campaign,Packaging,South West,59,Proposal Sent,74403.64,Government
+LD-751,22/03/2024,Cold Call,Warehouse Equipment,Midlands,75,Proposal Sent,58835.14,Contractor
+LD-752,02/10/2023,Website,Packaging,London,85,Won,12990.57,Government
+LD-753,17/07/2023,Online Directory,MRO Supplies,South East,51,Qualified,74886.93,Contractor
+LD-754,27/10/2024,Online Directory,Warehouse Equipment,South East,79,Lost,13984.66,Retail
+LD-755,09/01/2024,Online Directory,Safety Products,South East,65,Proposal Sent,9485.45,Trade
+LD-756,06/07/2022,Email Campaign,Warehouse Equipment,South West,58,Proposal Sent,40447.61,Retail
+LD-757,30/03/2024,Cold Call,Industrial Hardware,South West,39,Enquiry,46941.43,Retail
+LD-758,25/04/2024,Trade Show,Industrial Hardware,South East,22,Won,83322.35,Government
+LD-759,28/06/2023,Trade Show,Warehouse Equipment,South East,5,Lost,81404.91,Contractor
+LD-760,30/03/2024,Website,Warehouse Equipment,Midlands,36,Lost,2507.79,Government
+LD-761,05/07/2024,Website,Safety Products,North,43,Lost,12540.39,Government
+LD-762,09/07/2022,Online Directory,Warehouse Equipment,North,50,Qualified,16196.06,Trade
+LD-763,20/06/2022,Online Directory,Packaging,South East,57,Proposal Sent,30622.16,Government
+LD-764,31/07/2022,Online Directory,MRO Supplies,London,95,Proposal Sent,47598.01,Contractor
+LD-765,03/07/2022,Trade Show,Safety Products,South West,58,Proposal Sent,55017.63,Government
+LD-766,12/03/2023,Referral,Industrial Hardware,South West,85,Enquiry,17422.58,Contractor
+LD-767,29/10/2022,Trade Show,MRO Supplies,South West,60,Qualified,62042.35,Retail
+LD-768,19/07/2022,Email Campaign,Safety Products,South East,51,Proposal Sent,69668.01,Trade
+LD-769,22/08/2022,Email Campaign,Packaging,London,33,Won,13590.28,Retail
+LD-770,08/03/2023,Email Campaign,Industrial Hardware,North,46,Won,72746.03,Trade
+LD-771,07/10/2024,Email Campaign,Warehouse Equipment,Midlands,88,Proposal Sent,902.63,Retail
+LD-772,25/09/2024,Cold Call,Packaging,North,85,Proposal Sent,30701.89,Government
+LD-773,19/06/2023,Trade Show,Warehouse Equipment,London,6,Enquiry,19550.19,Trade
+LD-774,30/04/2024,Trade Show,Industrial Hardware,South West,15,Qualified,44325.36,Trade
+LD-775,04/11/2022,Trade Show,MRO Supplies,Midlands,85,Lost,51943.11,Trade
+LD-776,15/08/2022,Website,Industrial Hardware,North,2,Enquiry,7457.89,Retail
+LD-777,20/04/2022,Online Directory,Packaging,South West,58,Proposal Sent,41449.19,Government
+LD-778,16/05/2022,Email Campaign,Industrial Hardware,Midlands,88,Qualified,30014.0,Trade
+LD-779,10/02/2024,Referral,MRO Supplies,Midlands,72,Proposal Sent,23786.31,Retail
+LD-780,07/09/2023,Cold Call,Packaging,Midlands,31,Qualified,70917.6,Retail
+LD-781,20/12/2024,Online Directory,Warehouse Equipment,South West,88,Won,56137.85,Retail
+LD-782,06/10/2024,Referral,Industrial Hardware,South West,12,Qualified,63696.53,Retail
+LD-783,27/11/2024,Cold Call,Safety Products,London,5,Enquiry,73240.19,Retail
+LD-784,26/09/2022,Online Directory,MRO Supplies,South West,11,Won,48795.55,Contractor
+LD-785,30/08/2022,Online Directory,Industrial Hardware,Midlands,60,Won,49285.07,Retail
+LD-786,12/09/2022,Website,Industrial Hardware,South West,17,Proposal Sent,59920.3,Government
+LD-787,06/09/2023,Email Campaign,Industrial Hardware,South East,72,Qualified,7041.04,Trade
+LD-788,16/05/2023,Cold Call,Industrial Hardware,Midlands,79,Won,66523.12,Government
+LD-789,05/12/2022,Email Campaign,Warehouse Equipment,South West,19,Won,20897.79,Contractor
+LD-790,10/04/2023,Website,MRO Supplies,London,2,Won,70127.51,Government
+LD-791,01/11/2022,Online Directory,MRO Supplies,North,17,Qualified,80433.07,Government
+LD-792,31/07/2023,Online Directory,Industrial Hardware,South East,15,Lost,36436.98,Government
+LD-793,22/04/2024,Website,Industrial Hardware,South West,68,Proposal Sent,17633.56,Retail
+LD-794,29/03/2023,Referral,Industrial Hardware,South East,95,Lost,50566.74,Trade
+LD-795,15/11/2023,Cold Call,MRO Supplies,Midlands,31,Enquiry,4416.39,Retail
+LD-796,28/02/2022,Website,Safety Products,Midlands,89,Enquiry,17634.4,Contractor
+LD-797,04/11/2024,Email Campaign,Safety Products,South East,51,Enquiry,8981.7,Contractor
+LD-798,23/08/2023,Referral,Packaging,North,19,Proposal Sent,75036.24,Trade
+LD-799,17/05/2023,Trade Show,MRO Supplies,London,74,Lost,20710.96,Trade
+LD-800,25/05/2024,Online Directory,MRO Supplies,South West,53,Won,6205.53,Government
+LD-801,16/05/2024,Online Directory,Safety Products,London,26,Enquiry,67697.59,Retail
+LD-802,22/07/2022,Trade Show,Industrial Hardware,North,85,Proposal Sent,38318.51,Retail
+LD-803,04/03/2023,Referral,Industrial Hardware,South East,45,Proposal Sent,75471.91,Government
+LD-804,22/03/2022,Email Campaign,MRO Supplies,North,90,Proposal Sent,80445.81,Trade
+LD-805,02/04/2022,Referral,Packaging,North,78,Won,3647.07,Retail
+LD-806,15/05/2024,Online Directory,Warehouse Equipment,South East,5,Won,19300.9,Retail
+LD-807,27/08/2022,Cold Call,Packaging,South East,82,Qualified,44788.76,Trade
+LD-808,11/05/2024,Cold Call,MRO Supplies,North,34,Lost,43173.33,Government
+LD-809,12/11/2024,Email Campaign,Packaging,London,56,Won,83708.69,Government
+LD-810,21/07/2024,Online Directory,Packaging,South East,76,Enquiry,31499.12,Government
+LD-811,29/10/2022,Email Campaign,Industrial Hardware,North,36,Enquiry,40791.18,Contractor
+LD-812,30/03/2023,Email Campaign,MRO Supplies,South East,64,Lost,14873.04,Government
+LD-813,14/12/2022,Online Directory,MRO Supplies,South East,19,Enquiry,22023.61,Retail
+LD-814,30/10/2024,Email Campaign,Safety Products,London,83,Qualified,17850.89,Government
+LD-815,20/06/2024,Referral,MRO Supplies,South West,29,Lost,34871.14,Government
+LD-816,19/01/2023,Trade Show,Safety Products,South East,64,Proposal Sent,52694.31,Trade
+LD-817,25/02/2023,Cold Call,Safety Products,Midlands,71,Won,14383.6,Retail
+LD-818,08/12/2023,Online Directory,Industrial Hardware,London,9,Lost,71988.79,Retail
+LD-819,04/06/2024,Online Directory,Safety Products,London,78,Enquiry,20388.04,Retail
+LD-820,22/06/2022,Email Campaign,Safety Products,London,79,Proposal Sent,66145.33,Government
+LD-821,11/06/2022,Cold Call,Warehouse Equipment,London,62,Qualified,74472.53,Government
+LD-822,26/01/2023,Email Campaign,MRO Supplies,South West,68,Lost,73415.4,Retail
+LD-823,03/05/2023,Email Campaign,MRO Supplies,North,48,Proposal Sent,30435.95,Government
+LD-824,18/10/2023,Trade Show,Warehouse Equipment,North,7,Lost,54469.05,Government
+LD-825,08/11/2022,Trade Show,Safety Products,South West,50,Qualified,57500.37,Trade
+LD-826,28/07/2022,Cold Call,Warehouse Equipment,North,53,Won,65321.74,Retail
+LD-827,02/10/2024,Email Campaign,Industrial Hardware,South East,75,Won,34187.71,Contractor
+LD-828,27/12/2024,Online Directory,Warehouse Equipment,South West,21,Qualified,29137.39,Retail
+LD-829,02/03/2023,Referral,MRO Supplies,Midlands,19,Won,44679.43,Trade
+LD-830,20/05/2023,Trade Show,Industrial Hardware,North,81,Lost,35450.01,Government
+LD-831,31/05/2022,Cold Call,Warehouse Equipment,London,23,Qualified,1362.29,Government
+LD-832,30/01/2023,Referral,Safety Products,London,52,Proposal Sent,71707.91,Trade
+LD-833,01/02/2024,Website,Safety Products,North,24,Lost,61830.72,Trade
+LD-834,17/01/2022,Trade Show,Safety Products,South West,65,Proposal Sent,33534.66,Retail
+LD-835,11/03/2024,Website,Warehouse Equipment,London,88,Lost,14284.13,Contractor
+LD-836,30/07/2024,Cold Call,MRO Supplies,North,86,Qualified,78441.83,Trade
+LD-837,03/03/2022,Online Directory,Safety Products,Midlands,74,Qualified,9703.77,Government
+LD-838,02/10/2024,Referral,Warehouse Equipment,South West,80,Lost,52506.31,Contractor
+LD-839,08/12/2023,Referral,Industrial Hardware,North,37,Proposal Sent,10256.98,Retail
+LD-840,16/07/2023,Referral,Warehouse Equipment,Midlands,6,Qualified,23117.51,Trade
+LD-841,18/06/2023,Online Directory,Safety Products,North,74,Qualified,46676.07,Government
+LD-842,10/06/2023,Online Directory,Safety Products,South East,43,Qualified,14316.03,Contractor
+LD-843,02/02/2023,Website,Industrial Hardware,South West,54,Won,35990.84,Trade
+LD-844,24/05/2022,Trade Show,MRO Supplies,North,3,Lost,56767.19,Retail
+LD-845,17/04/2023,Cold Call,MRO Supplies,South East,93,Qualified,70732.73,Trade
+LD-846,29/02/2024,Referral,Industrial Hardware,North,66,Enquiry,21685.42,Retail
+LD-847,18/05/2022,Cold Call,Industrial Hardware,London,46,Won,56081.0,Government
+LD-848,27/12/2024,Cold Call,Safety Products,South West,16,Qualified,81825.3,Retail
+LD-849,31/03/2024,Trade Show,MRO Supplies,Midlands,93,Lost,43800.14,Trade
+LD-850,04/12/2022,Cold Call,MRO Supplies,South West,45,Enquiry,25047.76,Contractor
+LD-851,14/09/2024,Website,MRO Supplies,South West,6,Proposal Sent,23264.14,Trade
+LD-852,05/02/2023,Online Directory,Industrial Hardware,London,9,Lost,44201.58,Trade
+LD-853,23/03/2024,Cold Call,Warehouse Equipment,Midlands,60,Won,50347.53,Government
+LD-854,05/08/2022,Email Campaign,Packaging,Midlands,91,Won,9872.55,Retail
+LD-855,22/03/2022,Website,MRO Supplies,North,79,Won,45874.32,Government
+LD-856,13/05/2024,Online Directory,Safety Products,Midlands,83,Proposal Sent,40617.85,Government
+LD-857,29/06/2023,Email Campaign,Safety Products,North,84,Proposal Sent,14702.85,Contractor
+LD-858,28/03/2022,Cold Call,Packaging,London,72,Won,54383.71,Trade
+LD-859,11/10/2022,Trade Show,MRO Supplies,London,30,Enquiry,6374.1,Government
+LD-860,11/02/2022,Cold Call,Safety Products,South West,93,Enquiry,5890.12,Contractor
+LD-861,23/05/2022,Email Campaign,Packaging,Midlands,96,Qualified,31218.29,Contractor
+LD-862,18/10/2024,Online Directory,Packaging,Midlands,7,Qualified,48086.54,Retail
+LD-863,31/12/2022,Cold Call,Safety Products,South West,54,Proposal Sent,9006.79,Contractor
+LD-864,15/07/2023,Trade Show,Warehouse Equipment,Midlands,57,Enquiry,57651.98,Government
+LD-865,23/03/2023,Website,Warehouse Equipment,Midlands,87,Qualified,79859.53,Government
+LD-866,15/08/2024,Online Directory,MRO Supplies,South West,83,Won,43602.09,Trade
+LD-867,17/01/2023,Referral,MRO Supplies,North,86,Proposal Sent,13072.45,Retail
+LD-868,25/05/2023,Email Campaign,Industrial Hardware,Midlands,72,Won,78301.45,Trade
+LD-869,27/05/2024,Online Directory,Safety Products,Midlands,68,Proposal Sent,63397.58,Retail
+LD-870,08/02/2022,Online Directory,Packaging,North,46,Lost,20135.21,Retail
+LD-871,21/03/2022,Online Directory,Industrial Hardware,South West,72,Proposal Sent,31678.05,Contractor
+LD-872,16/12/2023,Website,Packaging,Midlands,76,Won,60226.73,Trade
+LD-873,25/06/2022,Cold Call,MRO Supplies,South West,61,Enquiry,17991.29,Trade
+LD-874,22/05/2023,Trade Show,MRO Supplies,Midlands,68,Won,8340.62,Contractor
+LD-875,21/11/2024,Referral,Warehouse Equipment,North,35,Qualified,59918.49,Trade
+LD-876,13/03/2023,Email Campaign,Industrial Hardware,North,14,Qualified,43890.76,Retail
+LD-877,12/06/2024,Website,Industrial Hardware,London,80,Qualified,45142.11,Trade
+LD-878,21/12/2022,Website,Warehouse Equipment,London,23,Proposal Sent,66644.93,Trade
+LD-879,20/08/2022,Cold Call,Industrial Hardware,South West,10,Lost,45102.09,Contractor
+LD-880,27/08/2022,Email Campaign,Packaging,London,6,Proposal Sent,67259.26,Government
+LD-881,09/03/2022,Trade Show,MRO Supplies,London,32,Won,75137.59,Contractor
+LD-882,26/12/2023,Cold Call,Packaging,North,14,Enquiry,51124.17,Trade
+LD-883,02/11/2024,Website,Industrial Hardware,Midlands,1,Proposal Sent,5664.52,Retail
+LD-884,05/01/2024,Online Directory,Warehouse Equipment,South East,72,Enquiry,77287.74,Government
+LD-885,25/04/2023,Online Directory,Industrial Hardware,London,5,Enquiry,10782.42,Contractor
+LD-886,27/04/2022,Website,Industrial Hardware,North,13,Enquiry,37506.34,Retail
+LD-887,26/12/2024,Cold Call,Industrial Hardware,London,79,Proposal Sent,42622.62,Retail
+LD-888,26/09/2024,Email Campaign,Industrial Hardware,Midlands,67,Qualified,7889.45,Trade
+LD-889,08/10/2022,Referral,Packaging,London,37,Enquiry,9704.39,Retail
+LD-890,20/12/2022,Cold Call,Packaging,Midlands,65,Qualified,71854.29,Government
+LD-891,15/12/2022,Website,MRO Supplies,South East,94,Qualified,28177.08,Retail
+LD-892,18/05/2022,Website,Packaging,South East,30,Won,26316.0,Contractor
+LD-893,05/04/2023,Online Directory,Safety Products,North,25,Lost,69818.92,Contractor
+LD-894,01/11/2023,Referral,Industrial Hardware,South West,1,Won,18120.53,Trade
+LD-895,19/08/2022,Online Directory,Safety Products,Midlands,82,Enquiry,79309.48,Trade
+LD-896,21/09/2023,Online Directory,Industrial Hardware,Midlands,19,Qualified,49088.06,Trade
+LD-897,23/07/2023,Online Directory,Packaging,South East,27,Won,53961.78,Government
+LD-898,25/06/2023,Online Directory,Packaging,South East,35,Won,27044.0,Trade
+LD-899,02/06/2024,Website,MRO Supplies,London,86,Enquiry,30089.34,Retail
+LD-900,27/11/2023,Trade Show,Warehouse Equipment,Midlands,17,Enquiry,31592.31,Retail
+LD-901,27/10/2024,Referral,Packaging,London,13,Won,82945.74,Contractor
+LD-902,21/03/2023,Referral,Warehouse Equipment,North,29,Proposal Sent,70430.75,Contractor
+LD-903,13/06/2022,Website,MRO Supplies,North,35,Lost,43639.32,Government
+LD-904,08/10/2024,Website,MRO Supplies,North,85,Lost,58817.05,Trade
+LD-905,02/07/2024,Referral,MRO Supplies,North,77,Enquiry,26079.19,Trade
+LD-906,17/03/2024,Online Directory,Warehouse Equipment,London,43,Proposal Sent,50275.12,Contractor
+LD-907,16/07/2024,Referral,Industrial Hardware,South West,62,Won,2178.52,Trade
+LD-908,09/02/2024,Referral,Industrial Hardware,South East,21,Enquiry,59076.75,Retail
+LD-909,07/04/2022,Trade Show,Safety Products,London,90,Lost,66544.26,Trade
+LD-910,04/10/2023,Cold Call,Industrial Hardware,North,28,Lost,74960.27,Government
+LD-911,09/10/2024,Cold Call,Safety Products,Midlands,70,Qualified,62582.98,Contractor
+LD-912,22/05/2022,Website,Warehouse Equipment,North,7,Won,51098.83,Contractor
+LD-913,19/01/2023,Website,Warehouse Equipment,Midlands,65,Enquiry,31113.05,Government
+LD-914,27/11/2024,Trade Show,Packaging,Midlands,34,Lost,21012.83,Contractor
+LD-915,07/07/2024,Online Directory,Safety Products,North,7,Qualified,79775.78,Government
+LD-916,30/05/2022,Trade Show,Safety Products,Midlands,67,Won,62504.06,Retail
+LD-917,27/11/2023,Online Directory,MRO Supplies,South East,83,Lost,17073.66,Retail
+LD-918,23/04/2023,Website,Packaging,London,77,Won,51824.8,Retail
+LD-919,06/10/2023,Online Directory,Packaging,North,73,Lost,33074.3,Contractor
+LD-920,01/10/2022,Online Directory,MRO Supplies,South West,91,Won,20920.53,Trade
+LD-921,01/02/2024,Trade Show,MRO Supplies,South East,92,Enquiry,48873.43,Retail
+LD-922,20/01/2024,Trade Show,Safety Products,South West,89,Qualified,58345.12,Contractor
+LD-923,30/06/2022,Email Campaign,Warehouse Equipment,South East,28,Enquiry,60650.58,Contractor
+LD-924,18/01/2022,Cold Call,Warehouse Equipment,South West,80,Qualified,59432.65,Trade
+LD-925,25/11/2022,Website,Warehouse Equipment,North,52,Proposal Sent,23644.91,Trade
+LD-926,09/01/2022,Trade Show,Warehouse Equipment,London,62,Qualified,27488.49,Retail
+LD-927,14/01/2023,Email Campaign,Warehouse Equipment,South West,38,Won,42862.96,Retail
+LD-928,20/03/2023,Website,Industrial Hardware,North,93,Lost,63774.23,Government
+LD-929,09/02/2023,Email Campaign,Industrial Hardware,North,12,Proposal Sent,51245.98,Retail
+LD-930,27/02/2023,Cold Call,Warehouse Equipment,London,70,Won,44595.77,Government
+LD-931,07/06/2024,Email Campaign,Warehouse Equipment,London,86,Lost,38174.87,Contractor
+LD-932,13/03/2024,Online Directory,Industrial Hardware,London,33,Qualified,81022.35,Trade
+LD-933,30/05/2023,Online Directory,Industrial Hardware,London,38,Proposal Sent,31551.02,Retail
+LD-934,09/02/2024,Trade Show,Packaging,London,23,Enquiry,21073.08,Contractor
+LD-935,14/07/2022,Website,Warehouse Equipment,Midlands,48,Lost,16407.35,Contractor
+LD-936,27/04/2023,Online Directory,Warehouse Equipment,Midlands,10,Won,55582.76,Trade
+LD-937,30/12/2023,Trade Show,Safety Products,London,47,Proposal Sent,20279.12,Retail
+LD-938,25/07/2023,Email Campaign,Safety Products,Midlands,27,Won,57195.28,Contractor
+LD-939,19/03/2023,Email Campaign,Packaging,North,8,Proposal Sent,61624.78,Retail
+LD-940,26/02/2024,Online Directory,Warehouse Equipment,Midlands,26,Enquiry,1298.65,Trade
+LD-941,09/11/2024,Referral,Warehouse Equipment,London,77,Qualified,968.49,Government
+LD-942,15/03/2023,Online Directory,Industrial Hardware,Midlands,13,Proposal Sent,49775.21,Contractor
+LD-943,14/11/2024,Online Directory,Warehouse Equipment,South East,75,Qualified,43764.26,Government
+LD-944,12/01/2022,Online Directory,Safety Products,South East,82,Proposal Sent,33507.3,Contractor
+LD-945,16/04/2022,Online Directory,Packaging,Midlands,75,Lost,19328.26,Government
+LD-946,17/07/2023,Online Directory,Packaging,South West,52,Lost,35206.22,Trade
+LD-947,04/04/2024,Referral,Packaging,London,5,Lost,58515.41,Contractor
+LD-948,01/05/2024,Email Campaign,MRO Supplies,North,70,Enquiry,78125.36,Government
+LD-949,06/02/2023,Trade Show,Warehouse Equipment,London,19,Proposal Sent,82218.55,Trade
+LD-950,07/03/2023,Cold Call,Packaging,Midlands,71,Proposal Sent,25058.16,Trade
+LD-951,17/08/2023,Email Campaign,Industrial Hardware,Midlands,24,Lost,27217.28,Contractor
+LD-952,26/01/2023,Online Directory,MRO Supplies,South West,73,Proposal Sent,73465.17,Trade
+LD-953,05/08/2022,Website,Safety Products,South West,53,Won,68837.72,Retail
+LD-954,24/08/2022,Trade Show,Safety Products,London,24,Qualified,72514.71,Government
+LD-955,26/06/2022,Website,Packaging,London,17,Qualified,8206.39,Government
+LD-956,30/11/2023,Email Campaign,Warehouse Equipment,London,38,Qualified,27914.38,Government
+LD-957,30/09/2022,Website,Safety Products,North,78,Lost,18997.25,Government
+LD-958,22/09/2022,Email Campaign,MRO Supplies,North,26,Proposal Sent,14190.9,Trade
+LD-959,23/12/2023,Email Campaign,Safety Products,South West,15,Enquiry,20175.11,Trade
+LD-960,14/02/2022,Website,Safety Products,London,28,Enquiry,50784.53,Retail
+LD-961,15/11/2023,Email Campaign,Safety Products,South West,18,Enquiry,62338.03,Government
+LD-962,19/04/2024,Referral,Packaging,South East,54,Qualified,46305.34,Government
+LD-963,16/10/2024,Email Campaign,Industrial Hardware,London,54,Proposal Sent,31164.96,Trade
+LD-964,20/03/2024,Cold Call,Industrial Hardware,South West,52,Won,67330.38,Trade
+LD-965,23/10/2024,Trade Show,Safety Products,South West,65,Won,84840.07,Contractor
+LD-966,16/09/2023,Referral,Industrial Hardware,Midlands,46,Proposal Sent,78895.39,Government
+LD-967,20/06/2023,Email Campaign,Safety Products,South West,77,Enquiry,4694.57,Trade
+LD-968,30/04/2024,Website,Safety Products,South East,68,Won,29619.51,Trade
+LD-969,24/05/2024,Cold Call,MRO Supplies,Midlands,80,Proposal Sent,22971.59,Contractor
+LD-970,23/11/2023,Cold Call,Safety Products,North,90,Qualified,84435.48,Trade
+LD-971,30/08/2023,Cold Call,Industrial Hardware,South East,86,Won,48161.97,Retail
+LD-972,21/05/2022,Cold Call,MRO Supplies,North,68,Proposal Sent,27462.28,Trade
+LD-973,28/06/2022,Email Campaign,MRO Supplies,Midlands,11,Qualified,32375.87,Contractor
+LD-974,05/08/2023,Referral,Safety Products,North,78,Proposal Sent,3660.88,Government
+LD-975,19/12/2022,Cold Call,Industrial Hardware,Midlands,68,Won,58030.12,Retail
+LD-976,17/01/2022,Email Campaign,Industrial Hardware,North,86,Won,40826.52,Contractor
+LD-977,24/04/2024,Trade Show,Warehouse Equipment,South West,66,Proposal Sent,7611.18,Retail
+LD-978,01/04/2023,Online Directory,MRO Supplies,South East,96,Qualified,36785.8,Government
+LD-979,16/12/2024,Trade Show,Industrial Hardware,South West,84,Qualified,40598.53,Government
+LD-980,23/07/2023,Cold Call,MRO Supplies,South East,14,Qualified,63566.01,Contractor
+LD-981,27/11/2023,Email Campaign,MRO Supplies,Midlands,34,Enquiry,63627.94,Retail
+LD-982,28/06/2023,Referral,Industrial Hardware,North,87,Enquiry,79569.1,Trade
+LD-983,18/07/2024,Referral,Industrial Hardware,Midlands,54,Lost,34582.6,Government
+LD-984,01/03/2024,Website,Packaging,South East,74,Proposal Sent,75021.47,Trade
+LD-985,02/06/2023,Referral,Industrial Hardware,North,79,Enquiry,42209.12,Trade
+LD-986,05/10/2023,Email Campaign,Packaging,South East,8,Lost,58699.52,Trade
+LD-987,15/11/2024,Website,Safety Products,South West,31,Lost,56891.74,Retail
+LD-988,09/02/2022,Referral,MRO Supplies,London,6,Enquiry,82335.87,Retail
+LD-989,30/07/2024,Online Directory,MRO Supplies,South East,9,Enquiry,62609.41,Government
+LD-990,28/12/2023,Online Directory,Packaging,North,29,Won,34655.52,Trade
+LD-991,02/11/2024,Cold Call,Packaging,South East,43,Qualified,67540.01,Contractor
+LD-992,23/03/2023,Trade Show,Packaging,London,31,Proposal Sent,44416.77,Contractor
+LD-993,18/09/2022,Referral,Packaging,South West,65,Qualified,68802.25,Government
+LD-994,21/04/2022,Cold Call,Safety Products,London,33,Won,75415.4,Government
+LD-995,24/03/2023,Online Directory,Warehouse Equipment,North,85,Lost,3053.6,Government
+LD-996,21/08/2023,Email Campaign,Safety Products,Midlands,31,Qualified,58585.49,Trade
+LD-997,23/11/2024,Website,MRO Supplies,North,1,Proposal Sent,33830.58,Government
+LD-998,21/12/2024,Website,Safety Products,South East,23,Proposal Sent,20615.12,Government
+LD-999,05/08/2022,Cold Call,Safety Products,North,53,Proposal Sent,83419.6,Government
+LD-1000,12/05/2023,Online Directory,Industrial Hardware,North,3,Lost,46288.69,Government

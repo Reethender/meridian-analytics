@@ -1,0 +1,66 @@
+date,product_line,forecast_units
+2024-07-14,MRO Supplies,6815.0
+2024-07-21,MRO Supplies,6583.0
+2024-07-28,MRO Supplies,6506.0
+2024-08-04,MRO Supplies,5996.0
+2024-08-11,MRO Supplies,5820.0
+2024-08-18,MRO Supplies,5812.0
+2024-08-25,MRO Supplies,5758.0
+2024-09-01,MRO Supplies,5615.0
+2024-09-08,MRO Supplies,5565.0
+2024-09-15,MRO Supplies,5539.0
+2024-09-22,MRO Supplies,5041.0
+2024-09-29,MRO Supplies,5323.0
+2024-10-06,MRO Supplies,5432.0
+2024-07-14,Packaging,14269.0
+2024-07-21,Packaging,13722.0
+2024-07-28,Packaging,13404.0
+2024-08-04,Packaging,11933.0
+2024-08-11,Packaging,11094.0
+2024-08-18,Packaging,11006.0
+2024-08-25,Packaging,10620.0
+2024-09-01,Packaging,9468.0
+2024-09-08,Packaging,8094.0
+2024-09-15,Packaging,8181.0
+2024-09-22,Packaging,7986.0
+2024-09-29,Packaging,7897.0
+2024-10-06,Packaging,6922.0
+2024-07-14,Industrial Hardware,4453.0
+2024-07-21,Industrial Hardware,4636.0
+2024-07-28,Industrial Hardware,4371.0
+2024-08-04,Industrial Hardware,4475.0
+2024-08-11,Industrial Hardware,4409.0
+2024-08-18,Industrial Hardware,4380.0
+2024-08-25,Industrial Hardware,4620.0
+2024-09-01,Industrial Hardware,4352.0
+2024-09-08,Industrial Hardware,4481.0
+2024-09-15,Industrial Hardware,4276.0
+2024-09-22,Industrial Hardware,4232.0
+2024-09-29,Industrial Hardware,4704.0
+2024-10-06,Industrial Hardware,4674.0
+2024-07-14,Warehouse Equipment,668.0
+2024-07-21,Warehouse Equipment,773.0
+2024-07-28,Warehouse Equipment,641.0
+2024-08-04,Warehouse Equipment,565.0
+2024-08-11,Warehouse Equipment,607.0
+2024-08-18,Warehouse Equipment,591.0
+2024-08-25,Warehouse Equipment,579.0
+2024-09-01,Warehouse Equipment,434.0
+2024-09-08,Warehouse Equipment,623.0
+2024-09-15,Warehouse Equipment,637.0
+2024-09-22,Warehouse Equipment,632.0
+2024-09-29,Warehouse Equipment,647.0
+2024-10-06,Warehouse Equipment,515.0
+2024-07-14,Safety Products,7196.0
+2024-07-21,Safety Products,7311.0
+2024-07-28,Safety Products,7425.0
+2024-08-04,Safety Products,7539.0
+2024-08-11,Safety Products,7653.0
+2024-08-18,Safety Products,7768.0
+2024-08-25,Safety Products,7882.0
+2024-09-01,Safety Products,7996.0
+2024-09-08,Safety Products,8110.0
+2024-09-15,Safety Products,8225.0
+2024-09-22,Safety Products,8339.0
+2024-09-29,Safety Products,8453.0
+2024-10-06,Safety Products,8567.0

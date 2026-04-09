@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files over GitHub 25MB limit
+01_cleaned_data/transactions_clean.csv
+
+# FMCG extra files
+00_raw_data/FMCG Daily Sales Data/*.parquet
+00_raw_data/FMCG Daily Sales Data/df_weekly_MI-006_enriched.csv
+00_raw_data/FMCG Daily Sales Data/weekly_df_final_for_modeling.csv
+
+# Power BI temp files
+*.pbix.tmp
+
+# IDE
+.vscode/
+.idea/
