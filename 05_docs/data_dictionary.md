@@ -1,7 +1,7 @@
 # Data Dictionary — Meridian Industrial Supplies Ltd.
 
 **Project:** Industrial Sales & Operations Analytics  
-**Last Updated:** April 2026  
+**Last Updated:** September 2026  
 **Author:** Reeth  
 
 ---
@@ -184,12 +184,81 @@ This document describes every table and column used in the Meridian Industrial S
 
 ---
 
-## Table 6: Inventory Dataset (to be cleaned)
+## Table 6: inventory_clean.csv
 
-**Source:** Kaggle Warehouse Inventory Dataset  
-**Files:** `Consumables Report - Oct. 2022.xlsx`, `Food Report - Oct. 2022.xlsx`  
-**Purpose:** Inventory health analysis, overstock/understock flagging (Dashboard Page 2)  
-**Status:** Pending cleaning — will be processed in Phase 3 preparation
+**Source:** Logistics Warehouse Dataset (Kaggle)
+**Note on source substitution:** The originally scoped Kaggle "Warehouse Inventory Dataset" (`Consumables Report - Oct. 2022.xlsx`, `Food Report - Oct. 2022.xlsx`) was inspected and found unusable — it consisted of unstructured kitchen/food consumption reports rather than SKU-level stock data. The Logistics Warehouse Dataset (`logistics_dataset.csv`) was substituted as it provided genuine per-SKU inventory fields (stock level, reorder point, lead time, demand). The two original `.xlsx` files remain in `00_raw_data/Warehouse Inventory Dataset/` for audit-trail purposes but are not used by the pipeline.
+**Rows:** 3,204 (one row per SKU)
+**Purpose:** Inventory health analysis, overstock/understock flagging (Dashboard Page 2)
+**Cleaning Notebook:** `02_notebooks/02_data_cleaning.ipynb`
+
+| Column | Data Type | Description | Source / Transformation |
+|--------|-----------|-------------|------------------------|
+| product_id | string | Unique SKU identifier | Renamed from original `item_id` column |
+| category | string | Original Logistics dataset category (Pharma, Automotive, Groceries, Electronics, Apparel) | Original column, retained for audit trail |
+| product_line | string | Meridian product line classification | Derived: mapped from `category` — Pharma→Safety Products, Automotive→Warehouse Equipment, Groceries→MRO Supplies, Electronics→Industrial Hardware, Apparel→Packaging |
+| stock_level | int | Current units in stock | Original column, unchanged |
+| reorder_point | int | Stock level threshold that should trigger reordering | Original column, unchanged |
+| reorder_frequency_days | int | How often reordering is reviewed for this SKU | Original column, unchanged |
+| lead_time_days | int | Supplier lead time in days | Original column, unchanged |
+| daily_demand | float | Average daily unit demand | Original column, unchanged |
+| demand_std_dev | float | Standard deviation of daily demand | Original column, unchanged |
+| item_popularity_score | float | Relative popularity/velocity score | Original column, unchanged |
+| storage_location_id | string | Warehouse storage location identifier | Original column, unchanged |
+| zone | string | Warehouse zone | Original column, unchanged |
+| picking_time_seconds | float | Average time to pick one unit | Original column, unchanged |
+| handling_cost_per_unit | float | Handling cost per unit (£) | Original column, unchanged |
+| unit_price | float | Unit price (£) | Original column, unchanged |
+| holding_cost_per_unit_day | float | Daily holding/storage cost per unit (£) | Original column, unchanged |
+| stockout_count_last_month | int | Number of stockout events in the prior month | Original column, unchanged |
+| order_fulfillment_rate | float | Proportion of orders fulfilled without stockout | Original column, unchanged |
+| total_orders_last_month | int | Order volume in the prior month | Original column, unchanged |
+| turnover_ratio | float | Inventory turnover ratio | Original column, unchanged |
+| layout_efficiency_score | float | Warehouse layout efficiency score | Original column, unchanged |
+| last_restock_date | date | Date of last restock | Original column, unchanged |
+| forecasted_demand_next_7d | float | Dataset's own native 7-day demand forecast | Original column, unchanged — distinct from this project's `forecasts_output.csv`, which is a separate 13-week Holt-Winters forecast built independently in `03_demand_forecasting.ipynb` |
+| KPI_score | float | Dataset's own native composite KPI score | Original column, unchanged |
+| days_of_supply | float | How many days current stock will last at average daily demand | Derived: `stock_level / daily_demand` |
+| stock_status | string | Inventory health classification: Understock / Healthy / Overstock | Derived: `Understock` if `days_of_supply < reorder_point`; `Overstock` if `days_of_supply > reorder_point × 3`; otherwise `Healthy`. Powers the Page 2 traffic-light table |
+| stock_value | float | Total value of stock currently held (£) | Derived: `stock_level × unit_price` |
+| excess_value | float | Estimated value of stock held beyond the healthy overstock threshold (£) | Derived: for Overstock rows only, `(stock_level − reorder_point × 3) × unit_price`; 0 for all other rows. Sums to £3.02M across the 90 Overstock SKUs — the "overstock exposure" figure cited on Page 2 |
+
+**Cleaning Steps Applied:**
+1. Loaded `logistics_dataset.csv`; `item_id` renamed to `product_id`
+2. Product line hierarchy created by mapping Logistics categories to Meridian product lines
+3. `days_of_supply` calculated as stock_level ÷ daily_demand
+4. `stock_status` classified using the days_of_supply vs. reorder_point thresholds above
+5. `stock_value` and `excess_value` calculated for KPI cards and the Page 2 treemap
+
+---
+
+## Table 7: forecasts_output.csv
+
+**Source:** Generated by `02_notebooks/03_demand_forecasting.ipynb`
+**Rows:** 65 (13 weekly forecast points × 5 product lines)
+**Purpose:** 13-week forward demand forecast, per product line, feeding the Page 6 forecast chart
+
+| Column | Data Type | Description | Source / Transformation |
+|--------|-----------|-------------|------------------------|
+| date | date | Forecasted week-ending date | Generated from `model.forecast(steps=...)` on a weekly-frequency series |
+| product_line | string | Meridian product line | One of the five product lines |
+| forecast_units | float | Forecasted unit demand for that week | Holt-Winters Exponential Smoothing (additive trend, additive seasonality, 52-week period); Safety Products falls back to trend-only where seasonal data is insufficient |
+
+---
+
+## Table 8: forecast_mape.csv
+
+**Source:** Generated by `02_notebooks/03_demand_forecasting.ipynb`
+**Rows:** 5 (one per product line)
+**Purpose:** Forecast accuracy scoring and average 13-week forecast volume, feeding the Page 6 MAPE table
+
+| Column | Data Type | Description | Source / Transformation |
+|--------|-----------|-------------|------------------------|
+| product_line | string | Meridian product line | One of the five product lines |
+| mape | float | Mean Absolute Percentage Error (%) on a 26-week holdout test set | `mean(abs((actual − forecast) / actual)) × 100` over the holdout weeks |
+| forecast_13wk | float | Average weekly forecast volume over the 13-week forward horizon | Mean of the 13 forward-forecast weeks for that product line |
+
+**Note on reproducibility:** `ExponentialSmoothing(...).fit(optimized=True)` has no fixed random seed or starting parameters, so exact MAPE and forecast values can shift slightly between environments/library versions even on identical input data. The values committed here are the project's reference run; treat `03_demand_forecasting.ipynb` as documentation of the method rather than a notebook to re-run before every reporting cycle.
 
 ---
 
@@ -197,11 +266,14 @@ This document describes every table and column used in the Meridian Industrial S
 
 | Primary Table | Join Key | Joins To | Join Key | Join Type |
 |---------------|----------|----------|----------|-----------|
-| transactions_clean | date (year-month) | ons_rsi_clean | date | Left join on year-month |
-| transactions_clean | date (year-month) | ons_ppi_clean | date | Left join on year-month |
-| transactions_clean | product_id | inventory (TBD) | product_id | Left join |
-| crm_leads | — | — | — | Standalone table |
-| marketing_campaigns | — | — | — | Standalone table |
+| transactions_clean | date (year-month) | ons_rsi_clean | date | Many-to-one on year-month |
+| transactions_clean | date (year-month) | ons_ppi_clean | date | Many-to-one on year-month |
+| forecasts_output | product_line | forecast_mape | product_line | Many-to-one |
+| crm_leads | — | — | — | Standalone table (no shared key with the sales fact table) |
+| marketing_campaigns | — | — | — | Standalone table (no shared key with the sales fact table) |
+| inventory_clean | — | — | — | Standalone table. `product_id` values are Logistics-dataset SKU codes and do not correspond to `transactions_clean.product_id` (FMCG SKU codes) — the two tables share only the categorical `product_line` field, which is too coarse for a reliable row-level join, so inventory is analysed independently on Page 2 rather than joined to the sales fact table |
+
+**Known limitation:** the model is not a strict single-fact-table star schema. `transactions_clean` is the central fact table for Pages 1 and 5 (joined to the two ONS tables), but CRM, Marketing, and Inventory are analytically standalone tables within the same file — each powers its own dashboard page but doesn't cross-filter against sales. A true unified star schema would require a shared conformed dimension (e.g., a date table, or resolving the SKU-code mismatch between the sales and inventory sources) connecting all six tables.
 
 ---
 
